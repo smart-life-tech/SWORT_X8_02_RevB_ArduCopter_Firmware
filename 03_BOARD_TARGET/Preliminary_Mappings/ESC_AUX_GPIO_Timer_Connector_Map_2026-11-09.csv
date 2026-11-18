@@ -1,0 +1,13 @@
+﻿Channel,MCU_GPIO,STM32_Pin,Series_Resistor,Connector,Signal_Pin,Candidate_Timer_Channel,STM32_AF,Status_or_Limitation
+ESC1,PB1,U1 pin 35,R20,CN3,3,TIM3_CH4,AF2,PWM candidate; DShot DMA not yet verified
+ESC2,PE11,U1 pin 41,R21,CN6,3,TIM1_CH2,AF1,PWM candidate; DShot DMA not yet verified
+ESC3,PE13,U1 pin 43,R22,CN7,3,TIM1_CH3,AF1,PWM candidate; DShot DMA not yet verified
+ESC4,PE14,U1 pin 44,R23,CN8,3,TIM1_CH4,AF1,PWM candidate; DShot DMA not yet verified
+ESC5,PA8,U1 pin 67,R24,CN9,3,TIM1_CH1,AF1,PWM candidate; DShot DMA not yet verified
+ESC6,PB0,U1 pin 34,R25,CN10,3,TIM3_CH3,AF2,PWM candidate; DShot DMA not yet verified
+ESC7,PD14,U1 pin 61,R26,CN11,3,TIM4_CH3,AF2,PWM candidate; DShot DMA not yet verified
+ESC8,PD15,U1 pin 62,R27,CN12,3,TIM4_CH4,AF2,PWM candidate; DShot DMA not yet verified
+AUX1,PC6,U1 pin 63,R28,CN13,3,TIM8_CH1,AF3,Candidate avoids duplicate TIM3 channel use; verify DMA/resource build
+AUX2,PC7,U1 pin 64,R29,CN14,3,TIM8_CH2,AF3,Candidate avoids duplicate TIM3 channel use; verify DMA/resource build
+AUX3,PC8,U1 pin 65,R30,CN15,3,TIM8_CH3,AF3,Candidate avoids duplicate TIM3 channel use; verify DMA/resource build
+AUX4,PC9,U1 pin 66,R31,CN16,3,TIM8_CH4,AF3,Candidate avoids duplicate TIM3 channel use; verify DMA/resource build

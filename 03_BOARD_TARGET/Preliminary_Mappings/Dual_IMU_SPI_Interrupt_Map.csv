@@ -1,0 +1,3 @@
+﻿Device,SPI_Peripheral,CS,SCK,MISO,MOSI,INT1,INT2,Actual_Netlist_Component_Label,Firmware_Selection,Evidence_and_Status
+IMU1 U2,SPI1,PA4,PA5,PA6,PA7,PC12,PC11,ICM-42688-P,ICM-42670-P per stock-part selection,09-Nov SCH/PCB exports confirm the net topology; BOM/schematic symbol still names 42688-P; no assembled-board validation
+IMU2 U3,SPI2,PB12,PB13,PB14,PB15,PC10,PA15,ICM-42688-P,ICM-42670-P per stock-part selection,09-Nov SCH/PCB exports confirm the net topology; BOM/schematic symbol still names 42688-P; no assembled-board validation

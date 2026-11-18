@@ -1,0 +1,38 @@
+SWORT-X8-02 REV-B — MILESTONE 1 HANDOFF
+Issued: 2 November 2026
+
+CONTENTS
+01_NATIVE_PROJECT/
+  SWORT-X8-02_REV-B_INTEGRATION_WORKING_EDITED_updated.eprj2
+  Editable EasyEDA Pro project supplied for this handoff.
+
+02_SCHEMATIC_EXPORTS/
+  SCH_Schematic1_2026-11-03.pdf
+  Netlist_Schematic1_2026-11-03.net
+  Schematic PDF and latest supplied schematic netlist.
+
+03_ENGINEERING_RECORDS/
+  M1_Engineering_Findings_Disposition_2026-11-02.txt
+  M1_Engineering_Change_Summary_2026-11-02.txt
+
+04_MANIFEST/
+  SHA256SUMS.txt
+  File integrity hashes for the packaged source files and records.
+
+SCOPE
+This package is the Milestone 1 schematic/project handoff. BOM and component
+procurement metadata review are excluded, as instructed. No BOM or pick-and-place
+files are included.
+
+IMPORTANT STATUS NOTE
+The findings register marks all Milestone 1 review items CLOSED, using explicit
+closure bases (verified in the supplied connectivity, accepted/retained, or
+outside the agreed hardware scope). CLOSED is a disposition status; it must not
+be interpreted as evidence of physical prototype testing, firmware validation,
+manufacturer approval, or a completed Milestone 2 manufacturing release.
+
+The project database, PDF and netlist are supplied snapshots. They have been
+copied into this package without editing their internal CAD contents during
+packaging. Where an acceptance/limitation is identified in the disposition
+register, that status is documented rather than presented as a new physical
+modification to the board.

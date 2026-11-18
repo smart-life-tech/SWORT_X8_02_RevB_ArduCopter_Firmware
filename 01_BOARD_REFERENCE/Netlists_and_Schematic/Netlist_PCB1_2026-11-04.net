@@ -1,0 +1,10047 @@
+PROTEL NETLIST 2.0
+[
+DESIGNATOR
+C1
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C1
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge97
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I20
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C2
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C2
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge98
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I23
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C3
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C3
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge99
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I24
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C4
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C4
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge100
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I25
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C5
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C5
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge101
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I26
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C6
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C6
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge102
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I27
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C7
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A225MQ5NSNC
+DESCRIPTION
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C7
+LCSC Part Name
+2.2uF ±20% 6.3V
+Supplier Part
+1276-1460-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A225KA5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A225MQ5NSNC/13164.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+2.2uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+2.2uF
+Description
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A225MQ5NSNC
+Unique ID
+gge111
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I69
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C8
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A106MQ5NUNC
+DESCRIPTION
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C8
+LCSC Part Name
+10uF ±20% 6.3V
+Supplier Part
+1276-1451-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A106MQ5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A106MQ5NUNC/16204.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+10uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+10uF
+Description
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A106MQ5NUNC
+Unique ID
+gge103
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I29
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C9
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B103KB5NNNC
+DESCRIPTION
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C9
+LCSC Part Name
+10nF ±10% 50V
+Supplier Part
+1276-1028-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B103KB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B103KB5NNNC/15869.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+10nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+10nF
+Description
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B103KB5NNNC
+Unique ID
+gge121
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I10
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C10
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C10
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge122
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I13
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C11
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A225MQ5NSNC
+DESCRIPTION
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C11
+LCSC Part Name
+2.2uF ±20% 6.3V
+Supplier Part
+1276-1460-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A225KA5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A225MQ5NSNC/13164.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+2.2uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+2.2uF
+Description
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A225MQ5NSNC
+Unique ID
+gge123
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I14
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C12
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B103KB5NNNC
+DESCRIPTION
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C12
+LCSC Part Name
+10nF ±10% 50V
+Supplier Part
+1276-1028-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B103KB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B103KB5NNNC/15869.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+10nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+10nF
+Description
+Capacitance:10nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B103KB5NNNC
+Unique ID
+gge125
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I37
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C13
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C13
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge126
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I38
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C14
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A225MQ5NSNC
+DESCRIPTION
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C14
+LCSC Part Name
+2.2uF ±20% 6.3V
+Supplier Part
+1276-1460-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A225KA5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A225MQ5NSNC/13164.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+2.2uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+2.2uF
+Description
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A225MQ5NSNC
+Unique ID
+gge127
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I39
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C15
+FOOTPRINT
+C0402
+PARTTYPE
+CL05C120JB5NNNC
+DESCRIPTION
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C15
+LCSC Part Name
+12pF ±5% 50V
+Supplier Part
+1276-1178-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05C120JB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05C120JB5NNNC/27150.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+12pF
+Tolerance
+±5%
+Voltage Rating
+50V
+Temperature Coefficient
+C0G
+Name
+12pF
+Description
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Device
+CL05C120JB5NNNC
+Unique ID
+gge105
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I32
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C16
+FOOTPRINT
+C0402
+PARTTYPE
+CL05C120JB5NNNC
+DESCRIPTION
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C16
+LCSC Part Name
+12pF ±5% 50V
+Supplier Part
+1276-1178-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05C120JB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05C120JB5NNNC/27150.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+12pF
+Tolerance
+±5%
+Voltage Rating
+50V
+Temperature Coefficient
+C0G
+Name
+12pF
+Description
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Device
+CL05C120JB5NNNC
+Unique ID
+gge106
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I33
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C17
+FOOTPRINT
+C0402
+PARTTYPE
+CL05C120JB5NNNC
+DESCRIPTION
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C17
+LCSC Part Name
+12pF ±5% 50V
+Supplier Part
+1276-1178-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05C120JB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05C120JB5NNNC/27150.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+12pF
+Tolerance
+±5%
+Voltage Rating
+50V
+Temperature Coefficient
+C0G
+Name
+12pF
+Description
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Device
+CL05C120JB5NNNC
+Unique ID
+gge108
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I39
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C18
+FOOTPRINT
+C0402
+PARTTYPE
+CL05C120JB5NNNC
+DESCRIPTION
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C18
+LCSC Part Name
+12pF ±5% 50V
+Supplier Part
+1276-1178-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05C120JB5NNNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05C120JB5NNNC/27150.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+12pF
+Tolerance
+±5%
+Voltage Rating
+50V
+Temperature Coefficient
+C0G
+Name
+12pF
+Description
+Capacitance:12pF Tolerance:±5% Tolerance:±5% Voltage Rating:50V Temperature Coefficient:C0G 
+Device
+CL05C120JB5NNNC
+Unique ID
+gge109
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I40
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C19
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A225MQ5NSNC
+DESCRIPTION
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C19
+LCSC Part Name
+2.2uF ±20% 6.3V
+Supplier Part
+1276-1460-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A225KA5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A225MQ5NSNC/13164.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+2.2uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+2.2uF
+Description
+Capacitance:2.2uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A225MQ5NSNC
+Unique ID
+gge112
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I71
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C20
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A105KA5NQNC
+DESCRIPTION
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C20
+LCSC Part Name
+1uF ±10% 25V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A105KA5NQNC/53938.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+25V
+Temperature Coefficient
+X5R
+Name
+100nF
+Description
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Device
+CL05A105KA5NQNC
+Unique ID
+gge113
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I74
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C21
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A105KA5NQNC
+DESCRIPTION
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C21
+LCSC Part Name
+1uF ±10% 25V
+Supplier Part
+1276-1445-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A105KA5NQNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A105KA5NQNC/53938.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+1uF
+Tolerance
+±10%
+Voltage Rating
+25V
+Temperature Coefficient
+X5R
+Name
+1uF
+Description
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Device
+CL05A105KA5NQNC
+Unique ID
+gge114
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I75
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C22
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A105KA5NQNC
+DESCRIPTION
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C22
+LCSC Part Name
+1uF ±10% 25V
+Supplier Part
+1276-1445-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A105KA5NQNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A105KA5NQNC/53938.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+1uF
+Tolerance
+±10%
+Voltage Rating
+25V
+Temperature Coefficient
+X5R
+Name
+1uF
+Description
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Device
+CL05A105KA5NQNC
+Unique ID
+gge115
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I77
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C23
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A105KA5NQNC
+DESCRIPTION
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C23
+LCSC Part Name
+1uF ±10% 25V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A105KA5NQNC/53938.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+25V
+Temperature Coefficient
+X5R
+Name
+100nF
+Description
+Capacitance:1uF Tolerance:±10% Tolerance:±10% Voltage Rating:25V Temperature Coefficient:X5R 
+Device
+CL05A105KA5NQNC
+Unique ID
+gge116
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I78
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C24
+FOOTPRINT
+C0805
+PARTTYPE
+CL21B106KOQNNNE
+DESCRIPTION
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:16V Temperature Coefficient:X7R
+Component Kind
+Standard
+Footprint
+C0805
+Designator
+C24
+LCSC Part Name
+10uF ±10% 16V
+Supplier Part
+1276-2872-1-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL21B106KOQNNNE
+Supplier Footprint
+0805
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL21B106KOQNNNE/97045.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+10uF
+Tolerance
+±10%
+Voltage Rating
+16V
+Temperature Coefficient
+X7R
+Name
+10uF
+Description
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:16V Temperature Coefficient:X7R
+Device
+CL21B106KOQNNNE
+Unique ID
+gge130
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I6
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C25
+FOOTPRINT
+C0805
+PARTTYPE
+CL21B106KOQNNNE
+DESCRIPTION
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:16V Temperature Coefficient:X7R
+Component Kind
+Standard
+Footprint
+C0805
+Designator
+C25
+LCSC Part Name
+10uF ±10% 16V
+Supplier Part
+1276-2872-1-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL21B106KOQNNNE
+Supplier Footprint
+0805
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL21B106KOQNNNE/97045.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+10uF
+Tolerance
+±10%
+Voltage Rating
+16V
+Temperature Coefficient
+X7R
+Name
+10uF
+Description
+Capacitance:10uF Tolerance:±10% Tolerance:±10% Voltage Rating:16V Temperature Coefficient:X7R
+Device
+CL21B106KOQNNNE
+Unique ID
+gge131
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I7
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C26
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C26
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge132
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I10
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C27
+FOOTPRINT
+C0805
+PARTTYPE
+GRM21BZ71A226ME15L
+DESCRIPTION
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0805
+Designator
+C27
+LCSC Part Name
+22uF ±20% 10V
+Supplier Part
+1276-7092-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL21A226KOQNNNG
+Supplier Footprint
+0805
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/GRM21BZ71A226ME15L/973892.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+22uF
+Tolerance
+±20%
+Voltage Rating
+10V
+Temperature Coefficient
+X7R
+Name
+22uF
+Description
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X7R 
+Device
+GRM21BZ71A226ME15L
+Unique ID
+gge135
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I18
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C28
+FOOTPRINT
+C0805
+PARTTYPE
+GRM21BZ71A226ME15L
+DESCRIPTION
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0805
+Designator
+C28
+LCSC Part Name
+22uF ±20% 10V
+Supplier Part
+1276-7092-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL21A226KOQNNNG
+Supplier Footprint
+0805
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/GRM21BZ71A226ME15L/973892.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0805_L2.0-W1.3-H1.3
+Value
+22uF
+Tolerance
+±20%
+Voltage Rating
+10V
+Temperature Coefficient
+X7R
+Name
+22uF
+Description
+Capacitance:22uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X7R 
+Device
+GRM21BZ71A226ME15L
+Unique ID
+gge136
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I19
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C30
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C30
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge144
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I16
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C31
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A475MP5NRNC
+DESCRIPTION
+Capacitance:4.7uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C31
+LCSC Part Name
+4.7uF ±20% 10V
+Supplier Part
+1276-1480-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A475KP5NRNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A475MP5NRNC/24469.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+4.7uF
+Tolerance
+±20%
+Voltage Rating
+10V
+Temperature Coefficient
+X5R
+Name
+4.7uF
+Description
+Capacitance:4.7uF Tolerance:±20% Tolerance:±20% Voltage Rating:10V Temperature Coefficient:X5R 
+Device
+CL05A475MP5NRNC
+Unique ID
+gge145
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I17
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C32
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C32
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge146
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I20
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C33
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C33
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge119
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I87
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C34
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C34
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge151
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I13
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C35
+FOOTPRINT
+C0402
+PARTTYPE
+CL05A106MQ5NUNC
+DESCRIPTION
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C35
+LCSC Part Name
+10uF ±20% 6.3V
+Supplier Part
+1276-1451-2-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05A106MQ5NUNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05A106MQ5NUNC/16204.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+10uF
+Tolerance
+±20%
+Voltage Rating
+6.3V
+Temperature Coefficient
+X5R
+Name
+10uF
+Description
+Capacitance:10uF Tolerance:±20% Tolerance:±20% Voltage Rating:6.3V Temperature Coefficient:X5R 
+Device
+CL05A106MQ5NUNC
+Unique ID
+gge152
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I14
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+L1
+FOOTPRINT
+L0402
+PARTTYPE
+BLM15PD121SN1D
+DESCRIPTION
+Impedance @ Frequency:120Ω@100MHz Tolerance:±25% Tolerance:±25% DC Resistance(DCR):90mΩ Current Rating:1.3A Number of Circuits:1 Operating Temperature:-55℃~+125℃ Operating Temperature:-55℃~+125℃ 
+Component Kind
+Standard
+Footprint
+L0402
+Designator
+L1
+LCSC Part Name
+单路 0402磁珠 阻抗120Ω@100MHz
+Supplier Part
+490-5203-2-ND
+Manufacturer
+Murata Electronics
+Manufacturer Part
+BLM15PD121SN1D
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/BLM15PD121SN1D/78018.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+L0402_L1.0-W0.5-H0.5_BEAD
+Impedance @ Frequency
+120Ω@100MHz
+Tolerance
+±25%
+DC Resistance(DCR)
+90mΩ
+Current Rating
+1.3A
+Number of Circuits
+1
+Operating Temperature
+-55℃~+125℃
+Name
+BLM15PD121SN1D
+Description
+Impedance @ Frequency:120Ω@100MHz Tolerance:±25% Tolerance:±25% DC Resistance(DCR):90mΩ Current Rating:1.3A Number of Circuits:1 Operating Temperature:-55℃~+125℃ Operating Temperature:-55℃~+125℃ 
+Device
+BLM15PD121SN1D
+Unique ID
+gge117
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I83
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R1
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1002TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R1
+LCSC Part Name
+10kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+RMCF0402FT10K0TR-ND
+Manufacturer
+Stackpole Electronics Inc
+Manufacturer Part
+RMCF0402FT10K0
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1002TCE/26487.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1002TCE
+Unique ID
+gge95
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I11
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R2
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1002TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R2
+LCSC Part Name
+10kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+RMCF0402FT10K0TR-ND
+Manufacturer
+Stackpole Electronics Inc
+Manufacturer Part
+RMCF0402FT10K0
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1002TCE/26487.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1002TCE
+Unique ID
+gge96
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I19
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R3
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1002TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R3
+LCSC Part Name
+10kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+RMCF0402FT10K0TR-ND
+Manufacturer
+Stackpole Electronics Inc
+Manufacturer Part
+RMCF0402FT10K0
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1002TCE/26487.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1002TCE
+Unique ID
+gge110
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I63
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R4
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3302TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:33kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R4
+LCSC Part Name
+33kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+P33KDCTR-ND
+Manufacturer
+Panasonic Industry
+Manufacturer Part
+ERA-2AEB333X
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Name
+33kΩ
+Description
+Type:Thick Film Resistors Resistance:33kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Device
+0402WGF3302TCE
+Unique ID
+gge153
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I18
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R5
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF0000TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:0Ω Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±800ppm/℃ Temperature Coefficient:±800ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R5
+LCSC Part Name
+0Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-0.0JRTR-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402JR-070RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF0000TCE/17853.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+0Ω
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±800ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+0Ω
+Description
+Type:Thick Film Resistor Resistance:0Ω Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±800ppm/℃ Temperature Coefficient:±800ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF0000TCE
+Unique ID
+gge118
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I86
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R6
+FOOTPRINT
+R0402
+PARTTYPE
+FRC0402J105 TS
+DESCRIPTION
+Type:Thick Film Resistor Resistance:1MΩ Tolerance:±5% Tolerance:±5% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R6
+LCSC Part Name
+1MΩ ±5% 62.5mW 厚膜电阻
+Supplier Part
+311-1.00MLRTR-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-071ML
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+1MΩ
+Tolerance
+±5%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+1MΩ
+Description
+Type:Thick Film Resistor Resistance:1MΩ Tolerance:±5% Tolerance:±5% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+FRC0402J105 TS
+Unique ID
+gge133
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I12
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R7
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402180KFKED
+DESCRIPTION
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R7
+LCSC Part Name
+厚膜电阻 180kΩ ±1% 63mW
+Supplier Part
+541-180KLTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402180KFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200618/C481956_E25174B008CE8C884BEDD7D4D15E674F.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+180kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Name
+180kΩ
+Description
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Device
+CRCW0402180KFKED
+Unique ID
+gge134
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I13
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R8
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW040222K1FKED
+DESCRIPTION
+Type:Thick Film Resistors Resistance:22.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R8
+LCSC Part Name
+厚膜电阻 22.1kΩ ±1% 62.5mW
+Supplier Part
+541-22.1KLTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW040222K1FKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW040222K1FKED/904078.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+22.1kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+22.1kΩ
+Description
+Type:Thick Film Resistors Resistance:22.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW040222K1FKED
+Unique ID
+gge140
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I5
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R9
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1002TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R9
+LCSC Part Name
+10kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+RMCF0402FT10K0TR-ND
+Manufacturer
+Stackpole Electronics Inc
+Manufacturer Part
+RMCF0402FT10K0
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1002TCE/26487.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1002TCE
+Unique ID
+gge141
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I6
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R10
+FOOTPRINT
+R0402
+PARTTYPE
+ERJ2RKF4752X
+DESCRIPTION
+Type:Thick Film Resistor Resistance:47.5kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R10
+LCSC Part Name
+47.5kΩ ±1% 100mW 厚膜电阻
+Supplier Part
+P47.5KLTR-ND
+Manufacturer
+Panasonic Industry
+Manufacturer Part
+ERJ-2RKF4752X
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/ERJ2RKF4752X/2168500.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+47.5kΩ
+Tolerance
+±1%
+Power(Watts)
+100mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+47.5kΩ
+Description
+Type:Thick Film Resistor Resistance:47.5kΩ Tolerance:±1% Tolerance:±1% Power(Watts):100mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+ERJ2RKF4752X
+Unique ID
+gge142
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I8
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R11
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1001TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R11
+LCSC Part Name
+1kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-1.00KLRTR-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-071KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1001TCE/12256.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+1kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+1kΩ
+Description
+Type:Thick Film Resistor Resistance:1kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1001TCE
+Unique ID
+gge143
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I10
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R12
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF5101TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:5.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R12
+LCSC Part Name
+5.1kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+P5.10KLTR-ND
+Manufacturer
+Panasonic Industry
+Manufacturer Part
+ERJ-2RKF5101X
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.5
+Type
+Thick Film Resistors
+Value
+5.1kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Name
+5.1kΩ
+Description
+Type:Thick Film Resistors Resistance:5.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Device
+0402WGF5101TCE
+Unique ID
+gge25
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I23
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R13
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF5101TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:5.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R13
+LCSC Part Name
+5.1kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+P5.10KLTR-ND
+Manufacturer
+Panasonic Industry
+Manufacturer Part
+ERJ-2RKF5101X
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.5
+Type
+Thick Film Resistors
+Value
+5.1kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Name
+5.1kΩ
+Description
+Type:Thick Film Resistors Resistance:5.1kΩ Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃
+Device
+0402WGF5101TCE
+Unique ID
+gge26
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I24
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R14
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R14
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge154
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I20
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R15
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R15
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge155
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I21
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R16
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R16
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge156
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I22
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R17
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R17
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge157
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I23
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R18
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R18
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge158
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I24
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R19
+FOOTPRINT
+R0402
+PARTTYPE
+CRCW0402121RFKED
+DESCRIPTION
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R19
+LCSC Part Name
+厚膜电阻 121Ω ±1% 63mW
+Supplier Part
+541-121LTR-ND
+Manufacturer
+Vishay Dale
+Manufacturer Part
+CRCW0402121RFKED
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CRCW0402121RFKED/3503248.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+121Ω
+Tolerance
+±1%
+Power(Watts)
+63mW
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+121Ω
+Description
+Type:Thick Film Resistor Resistance:121Ω Tolerance:±1% Tolerance:±1% Power(Watts):63mW Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+CRCW0402121RFKED
+Unique ID
+gge159
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I25
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+SW1
+FOOTPRINT
+SW-SMD_L3.9-W3.0-P4.45
+PARTTYPE
+TS-1088-AR02016
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.6N Mounting Type:Surface Mount,Vertical Length:4mm Width:3mm Switch Height:2mm with Bracket:Without Bracket Contact Current:50mA Voltage Rating:12V Actuator/Cap Color:Black Termination Style:SMD(S
+Component Kind
+Standard
+Footprint
+SW-SMD_L3.9-W3.0-P4.45
+Designator
+SW1
+LCSC Part Name
+4*3*2mm 立贴 轻触开关
+Supplier Part
+2449-CS1213AGF260TR-ND
+Manufacturer
+CIT Relay and Switch
+Manufacturer Part
+CS1213AGF260
+Supplier Footprint
+SMD,4x3mm
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+SW-SMD_L3.9-W2.9-H2.0-LS4.8
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.6N
+Mounting Type
+Surface Mount,Vertical
+Length
+4mm
+Width
+3mm
+Switch Height
+2mm
+with Bracket
+Without Bracket
+Contact Current
+50mA
+Voltage Rating
+12V
+Actuator/Cap Color
+Black
+Termination Style
+SMD(SMT) Tab
+Life
+100,000 Cycles
+Operating Temperature
+-30℃~+80℃
+Name
+CS1213AGF260
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.6N Mounting Type:Surface Mount,Vertical Length:4mm Width:3mm Switch Height:2mm with Bracket:Without Bracket Contact Current:50mA Voltage Rating:12V Actuator/Cap Color:Black Termination Style:SMD(S
+Device
+TS-1088-AR02016
+Unique ID
+gge93_0
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I15
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+SW6
+FOOTPRINT
+SW-SMD_L3.9-W3.0-P4.45
+PARTTYPE
+TS-1088-AR02016
+DESCRIPTION
+Circuit:SPST Actuator Style:Round Button Operating Force:1.6N Mounting Type:Surface Mount,Vertical Length:4mm Width:3mm Switch Height:2mm with Bracket:Without Bracket Contact Current:50mA Voltage Rating:12V Actuator/Cap Color:Black Termination Style:SMD(S
+Component Kind
+Standard
+Footprint
+SW-SMD_L3.9-W3.0-P4.45
+Designator
+SW6
+LCSC Part Name
+4*3*2mm 立贴 轻触开关
+Supplier Part
+2449-CS1213AGF260TR-ND
+Manufacturer
+CIT Relay and Switch
+Manufacturer Part
+CS1213AGF260
+Supplier Footprint
+SMD,4x3mm
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/TS-1088-AR02016/763484.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+SW-SMD_L3.9-W2.9-H2.0-LS4.8
+Circuit
+SPST
+Actuator Style
+Round Button
+Operating Force
+1.6N
+Mounting Type
+Surface Mount,Vertical
+Length
+4mm
+Width
+3mm
+Switch Height
+2mm
+with Bracket
+Without Bracket
+Contact Current
+50mA
+Voltage Rating
+12V
+Actuator/Cap Color
+Black
+Termination Style
+SMD(SMT) Tab
+Life
+100,000 Cycles
+Operating Temperature
+-30℃~+80℃
+Name
+CS1213AGF260
+Description
+Circuit:SPST Actuator Style:Round Button Operating Force:1.6N Mounting Type:Surface Mount,Vertical Length:4mm Width:3mm Switch Height:2mm with Bracket:Without Bracket Contact Current:50mA Voltage Rating:12V Actuator/Cap Color:Black Termination Style:SMD(S
+Device
+TS-1088-AR02016
+Unique ID
+gge93
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I13
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U2
+FOOTPRINT
+LGA-14_L3.0-W2.5-P0.50-TL
+PARTTYPE
+ICM-42688-P
+DESCRIPTION
+Accelerometer Sensing Axis:X,Y,Z Acceleration Measurement Range (MAX):±16g Acceleration Measurement Range (MAX):±16g Gyroscope Sensing Axis:X,Y,Z Gyroscope Measurement Range (MAX):±2000dps Gyroscope Measurement Range (MAX):±2000dps Sensor Type:IMU (accele
+Component Kind
+Standard
+Footprint
+LGA-14_L3.0-W2.5-P0.50-TL
+Designator
+U2
+LCSC Part Name
+高精度六轴MEMS运动跟踪器件
+Supplier Part
+1428-ICM-42688-PTR-ND
+Manufacturer
+TDK InvenSense
+Manufacturer Part
+ICM-42688-P
+Supplier Footprint
+LGA-14(2.5x3)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/ICM-42688-P/1941231.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+LGA-14_L2.5-W3.0-H0.9-P0.50
+Accelerometer Sensing Axis
+X,Y,Z
+Acceleration Measurement Range (MAX)
+±16g
+Gyroscope Sensing Axis
+X,Y,Z
+Gyroscope Measurement Range (MAX)
+±2000dps
+Sensor Type
+IMU (accelerometer + gyroscope)
+Output Bits
+16bit
+Interface
+I2C；SPI
+Voltage - Supply
+1.71V~3.6V
+Cache Size
+2KB
+Standby Current
+7.5uA
+Operating Temperature
+-40℃~+85℃
+Features
+Motion event detection；Synchronization and timestamp
+Name
+ICM-42688-P
+Description
+Accelerometer Sensing Axis:X,Y,Z Acceleration Measurement Range (MAX):±16g Acceleration Measurement Range (MAX):±16g Gyroscope Sensing Axis:X,Y,Z Gyroscope Measurement Range (MAX):±2000dps Gyroscope Measurement Range (MAX):±2000dps Sensor Type:IMU (accele
+Device
+ICM-42688-P
+Unique ID
+gge120
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I2
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U3
+FOOTPRINT
+LGA-14_L3.0-W2.5-P0.50-TL
+PARTTYPE
+ICM-42688-P
+DESCRIPTION
+Accelerometer Sensing Axis:X,Y,Z Acceleration Measurement Range (MAX):±16g Acceleration Measurement Range (MAX):±16g Gyroscope Sensing Axis:X,Y,Z Gyroscope Measurement Range (MAX):±2000dps Gyroscope Measurement Range (MAX):±2000dps Sensor Type:IMU (accele
+Component Kind
+Standard
+Footprint
+LGA-14_L3.0-W2.5-P0.50-TL
+Designator
+U3
+LCSC Part Name
+高精度六轴MEMS运动跟踪器件
+Supplier Part
+1428-ICM-42688-PTR-ND
+Manufacturer
+TDK InvenSense
+Manufacturer Part
+ICM-42688-P
+Supplier Footprint
+LGA-14(2.5x3)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/ICM-42688-P/1941231.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+LGA-14_L2.5-W3.0-H0.9-P0.50
+Accelerometer Sensing Axis
+X,Y,Z
+Acceleration Measurement Range (MAX)
+±16g
+Gyroscope Sensing Axis
+X,Y,Z
+Gyroscope Measurement Range (MAX)
+±2000dps
+Sensor Type
+IMU (accelerometer + gyroscope)
+Output Bits
+16bit
+Interface
+I2C；SPI
+Voltage - Supply
+1.71V~3.6V
+Cache Size
+2KB
+Standby Current
+7.5uA
+Operating Temperature
+-40℃~+85℃
+Features
+Motion event detection；Synchronization and timestamp
+Name
+ICM-42688-P
+Description
+Accelerometer Sensing Axis:X,Y,Z Acceleration Measurement Range (MAX):±16g Acceleration Measurement Range (MAX):±16g Gyroscope Sensing Axis:X,Y,Z Gyroscope Measurement Range (MAX):±2000dps Gyroscope Measurement Range (MAX):±2000dps Sensor Type:IMU (accele
+Device
+ICM-42688-P
+Unique ID
+gge124
+Reuse Block
+
+Group ID
+
+Channel ID
+$2I29
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U4
+FOOTPRINT
+VSON-14_L4.0-W3.0-P0.50-BL-EP_TI_DSJ
+PARTTYPE
+TPS63020DSJR
+DESCRIPTION
+Function:Boost type Output Type:Adjustable Voltage - Supply:1.8V~5.5V Voltage - Supply:1.8V~5.5V Output Voltage:1.2V~5.5V Output Voltage:1.2V~5.5V Output Current:3A Frequency - Switching:2.4MHz Frequency - Switching:2.4MHz Operating Temperature:-40℃~+85℃@
+Component Kind
+Standard
+Footprint
+VSON-14_L4.0-W3.0-P0.50-BL-EP_TI_DSJ
+Designator
+U4
+LCSC Part Name
+高效率单电感升降压转换器
+Supplier Part
+296-36491-2-ND
+Manufacturer
+Texas Instruments
+Manufacturer Part
+TPS63020DSJR
+Supplier Footprint
+VSON-14-EP(3x4)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/tps63020
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+VSON-14_L4.0-W3.0-H1.0-P0.50
+Function
+Boost type
+Output Type
+Adjustable
+Voltage - Supply
+1.8V~5.5V
+Output Voltage
+1.2V~5.5V
+Output Current
+3A
+Frequency - Switching
+2.4MHz
+Operating Temperature
+-40℃~+85℃@(TA)
+Synchronous Rectifier
+Yes
+Number of Outputs
+1
+Topology
+Step-down-Boost
+Quiescent Current
+50uA
+Switch tube (built-in/external)
+Built-in
+Name
+TPS63020DSJR
+Description
+Function:Boost type Output Type:Adjustable Voltage - Supply:1.8V~5.5V Voltage - Supply:1.8V~5.5V Output Voltage:1.2V~5.5V Output Voltage:1.2V~5.5V Output Current:3A Frequency - Switching:2.4MHz Frequency - Switching:2.4MHz Operating Temperature:-40℃~+85℃@
+Device
+TPS63020DSJR
+Unique ID
+gge128
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I2
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U5
+FOOTPRINT
+SENSOR-SMD_L6.0-W2.1-L
+PARTTYPE
+RM3100(13104)
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+SENSOR-SMD_L6.0-W2.1-L
+Designator
+U5
+LCSC Part Name
+RM3100(13104)
+Supplier Part
+RM3100
+Manufacturer
+PNI
+Manufacturer Part
+RM3100
+Supplier Footprint
+SMD_2.1X6.1
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+PNI
+Add into BOM
+yes
+3D Model Title
+SENSOR-SMD_L6.0-W2.1-L
+Name
+RM3100
+Description
+
+Device
+RM3100(13104)
+Unique ID
+gge150
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I8
+Link
+https://www.pnisensor.com/product/rm3100-sensor-suite/
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U6
+FOOTPRINT
+SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL
+PARTTYPE
+W25Q128JVSIQ
+DESCRIPTION
+Interface:SPI Memory Size:128Mbit Clock Frequency:133MHz Voltage - Supply:2.7V~3.6V Voltage - Supply:2.7V~3.6V Standby Supply Current:1uA Program / Erase Cycles:100,000 cycles Write Cycle Time (tWC):- Page Programming Time (Tpp):3ms Block Erase Time(tBE):
+Component Kind
+Standard
+Footprint
+SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL
+Designator
+U6
+LCSC Part Name
+编带 支持双路/四路SPI接口的3V、128Mbit 串行闪存
+Supplier Part
+256-W25Q128JVSIQTR-ND
+Manufacturer
+Winbond(华邦)
+Manufacturer Part
+W25Q128JVSIQ
+Supplier Footprint
+SOIC-8-208mil
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/W25Q128JVSIQ/98729.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+SOIC-8_L5.3-W5.3-H1.9-LS7.9-P1.27
+Interface
+SPI
+Memory Size
+128Mbit
+Clock Frequency
+133MHz
+Voltage - Supply
+2.7V~3.6V
+Standby Supply Current
+1uA
+Program / Erase Cycles
+100,000 cycles
+Write Cycle Time (tWC)
+-
+Page Programming Time (Tpp)
+3ms
+Block Erase Time(tBE)
+120ms@(32KB)
+Data Retention - TDR (Year)
+20 Years
+Operating Temperature
+-40℃~+85℃
+Features
+Hardware write protection；Absolute write protection；Write enable latch；Software write protection；Power-on reset
+Name
+W25Q128JVSIQ
+Description
+Interface:SPI Memory Size:128Mbit Clock Frequency:133MHz Voltage - Supply:2.7V~3.6V Voltage - Supply:2.7V~3.6V Standby Supply Current:1uA Program / Erase Cycles:100,000 cycles Write Cycle Time (tWC):- Page Programming Time (Tpp):3ms Block Erase Time(tBE):
+Device
+W25Q128JVSIQ
+Unique ID
+gge94
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I8
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U8
+FOOTPRINT
+QFN-28_L5.0-W5.0-P0.50-TL-EP3.3
+PARTTYPE
+CP2102N-A02-GQFN28R
+DESCRIPTION
+Applications Function:USB to UART USB Protocol:USB 2.0 Number of Channels:- Voltage - Supply:3V~3.6V Voltage - Supply:3V~3.6V Data Rate:- Operating Temperature:-40℃~+85℃@(Ta) Operating Temperature:-40℃~+85℃@(Ta) Current - Supply:9.5mA Quiescent Supply Cur
+Component Kind
+Standard
+Footprint
+QFN-28_L5.0-W5.0-P0.50-TL-EP3.3
+Designator
+U8
+LCSC Part Name
+USB转UART桥接器
+Supplier Part
+336-5890-2-ND
+Manufacturer
+SKYWORKS/SILICON LABS(芯科)
+Manufacturer Part
+CP2102N-A02-GQFN28R
+Supplier Footprint
+QFN-28-EP(5x5)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/CP2102N-A02-GQFN28R/1049893.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+QFN-28_L5.0-W5.0-H0.9-P0.50
+Applications Function
+USB to UART
+USB Protocol
+USB 2.0
+Number of Channels
+-
+Voltage - Supply
+3V~3.6V
+Data Rate
+-
+Operating Temperature
+-40℃~+85℃@(Ta)
+Current - Supply
+9.5mA
+Quiescent Supply Current
+1.3uA
+Features
+FIFO buffer；Programmable baud rate；Wake-up function；Built-in clock generator；Hardware flow control support；Power-on reset
+Name
+CP2102N-A02-GQFN28R
+Description
+Applications Function:USB to UART USB Protocol:USB 2.0 Number of Channels:- Voltage - Supply:3V~3.6V Voltage - Supply:3V~3.6V Data Rate:- Operating Temperature:-40℃~+85℃@(Ta) Operating Temperature:-40℃~+85℃@(Ta) Current - Supply:9.5mA Quiescent Supply Cur
+Device
+CP2102N-A02-GQFN28R
+Unique ID
+gge139
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I2
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U10
+FOOTPRINT
+SENSOR-SMD_L6.0-W2.1-L
+PARTTYPE
+RM3100(13104)
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+SENSOR-SMD_L6.0-W2.1-L
+Designator
+U10
+LCSC Part Name
+RM3100(13104)
+Supplier Part
+RM3100
+Manufacturer
+PNI
+Manufacturer Part
+RM3100
+Supplier Footprint
+SMD_2.1X6.1
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+PNI
+Add into BOM
+yes
+3D Model Title
+SENSOR-SMD_L6.0-W2.1-L
+Name
+RM3100
+Description
+
+Device
+RM3100(13104)
+Unique ID
+gge147
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I4
+Link
+https://www.pnisensor.com/product/rm3100-sensor-suite/
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U11
+FOOTPRINT
+VQFN-28_L4.0-W4.0-P0.40-BL-EP2.6
+PARTTYPE
+RM3100(13156)
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+VQFN-28_L4.0-W4.0-P0.40-BL-EP2.6
+Designator
+U11
+LCSC Part Name
+RM3100(13156)
+Supplier Part
+RM3100
+Manufacturer
+PNI
+Manufacturer Part
+RM3100
+Supplier Footprint
+VQFN-28-EP(4x4)
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+PNI
+Add into BOM
+yes
+3D Model Title
+VQFN-28_L4.0-W4.0-H0.9-P0.40-BL-EP2.6
+Name
+RM3100
+Description
+
+Device
+RM3100(13156)
+Unique ID
+gge148
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I5
+Link
+https://www.pnisensor.com/product/rm3100-sensor-suite/
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U12
+FOOTPRINT
+SENSOR-SMD_L3.9-W3.0-L
+PARTTYPE
+13101/RM3100
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+SENSOR-SMD_L3.9-W3.0-L
+Designator
+U12
+LCSC Part Name
+13101/RM3100
+Supplier Part
+RM3100
+Manufacturer
+PNI
+Manufacturer Part
+RM3100
+Supplier Footprint
+-
+JLCPCB Part Class
+Extended Part
+Datasheet
+
+Supplier
+PNI
+Add into BOM
+yes
+3D Model Title
+SENSOR-SMD_L3.9-W3.0-L
+Name
+RM3100
+Description
+
+Device
+13101/RM3100
+Unique ID
+gge149
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I6
+Link
+https://www.pnisensor.com/product/rm3100-sensor-suite/
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+USB1
+FOOTPRINT
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+PARTTYPE
+TYPE-C 16PIN 2MD(073)
+DESCRIPTION
+Connector Type:Type-C Standard:- Gender:Female Number of Ports:1 Number of Contacts:16P Mounting Style:卧贴 Current Rating - Power (Max):5A Operating Temperature Range:-25℃~+85℃ Operating Temperature Range:-25℃~+85℃
+Component Kind
+Standard
+Footprint
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+Designator
+USB1
+LCSC Part Name
+Type-C 母 卧贴
+Supplier Part
+2073-USB4215-03-ATR-ND
+Manufacturer
+GCT
+Manufacturer Part
+USB4215-03-A
+Supplier Footprint
+SMD
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20211123/39B17C16241EAC15C5E277BDA434118E.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+USB-C-SMD_TYPE-C-6PIN-2MD-073
+Connector Type
+Type-C
+Standard
+-
+Gender
+Female
+Number of Ports
+1
+Number of Contacts
+16P
+Mounting Style
+卧贴
+Current Rating - Power (Max)
+5A
+Operating Temperature Range
+-25℃~+85℃
+Name
+USB4215-03-A
+Description
+Connector Type:Type-C Standard:- Gender:Female Number of Ports:1 Number of Contacts:16P Mounting Style:卧贴 Current Rating - Power (Max):5A Operating Temperature Range:-25℃~+85℃ Operating Temperature Range:-25℃~+85℃
+Device
+TYPE-C 16PIN 2MD(073)
+Unique ID
+gge20
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I22
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+X1
+FOOTPRINT
+OSC-SMD_L3.2-W1.5
+PARTTYPE
+SC-32S32.768kHz20PPM12.5pF
+DESCRIPTION
+Type:- Frequency:32.768kHz Normal temperature Frequency Tolerance:±20ppm Normal temperature Frequency Tolerance:±20ppm Load Capacitance:12.5pF Operating Temperature:- Operating Temperature:- 
+Component Kind
+Standard
+Footprint
+OSC-SMD_L3.2-W1.5
+Designator
+X1
+LCSC Part Name
+32.768kHz ±20ppm 12.5pF
+Supplier Part
+728-1074-2-ND
+Manufacturer
+Seiko Instruments
+Manufacturer Part
+SC32S-7PF20PPM
+Supplier Footprint
+SMD3215-2P
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20170713/C97606_1499914220652816606.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+OSC-SMD_L3.2-W1.5-H0.8
+Type
+-
+Value
+32.768kHz
+Normal temperature Frequency Tolerance
+±20ppm
+Load Capacitance
+12.5pF
+Operating Temperature
+-
+Name
+32.768kHz
+Description
+Type:- Frequency:32.768kHz Normal temperature Frequency Tolerance:±20ppm Normal temperature Frequency Tolerance:±20ppm Load Capacitance:12.5pF Operating Temperature:- Operating Temperature:- 
+Device
+SC-32S32.768kHz20PPM12.5pF
+Unique ID
+gge104
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I31
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+X2
+FOOTPRINT
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2
+PARTTYPE
+X322525MSB4SI
+DESCRIPTION
+Type:Crystal Oscillator Frequency:25MHz Normal temperature Frequency Tolerance:±10ppm Normal temperature Frequency Tolerance:±10ppm Load Capacitance:20pF Frequency Stability:±20ppm Frequency Stability:±20ppm Operating Temperature:-40℃~+85℃ Operating Tempe
+Component Kind
+Standard
+Footprint
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2
+Designator
+X2
+LCSC Part Name
+YSX321SL 25MHZ 4P 3225 20PF ±10PPM -40~85℃ (±20PPM)
+Supplier Part
+3305-3225S42500BMDABCCEB-CT-ND
+Manufacturer
+HKC
+Manufacturer Part
+3225S42500BMDABCCEB-CT
+Supplier Footprint
+SMD3225-4P
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/X322525MSB4SI/14395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CRYSTAL-SMD_4P-L3.2-W2.5-BL-2
+Type
+Crystal Oscillator
+Value
+25MHz
+Normal temperature Frequency Tolerance
+±10ppm
+Load Capacitance
+20pF
+Frequency Stability
+±20ppm
+Operating Temperature
+-40℃~+85℃
+Name
+25MHz
+Description
+Type:Crystal Oscillator Frequency:25MHz Normal temperature Frequency Tolerance:±10ppm Normal temperature Frequency Tolerance:±10ppm Load Capacitance:20pF Frequency Stability:±20ppm Frequency Stability:±20ppm Operating Temperature:-40℃~+85℃ Operating Tempe
+Device
+X322525MSB4SI
+Unique ID
+gge107
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I36
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN1
+FOOTPRINT
+CONN-SMD_GH-6PLT
+PARTTYPE
+GH-6PLT
+DESCRIPTION
+Pins Structure:1x6P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:6P Number of Rows:1 Number of PINs Per Row:6 Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85℃ Operating Te
+Component Kind
+Standard
+Footprint
+CONN-SMD_GH-6PLT
+Designator
+CN1
+LCSC Part Name
+1x6P 间距:1.25mm 立贴 系列:GH
+Supplier Part
+455-BM06B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM06B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/GH-6PLT/2893532.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_GH-6PLT
+Pins Structure
+1x6P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+6P
+Number of Rows
+1
+Number of PINs Per Row
+6
+Current Rating
+1A
+Contact Material
+Brass
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Color
+Beige
+Name
+BM06B-GHS-TBT
+Description
+Pins Structure:1x6P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:6P Number of Rows:1 Number of PINs Per Row:6 Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85℃ Operating Te
+Device
+GH-6PLT
+Unique ID
+gge162
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I25
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN2
+FOOTPRINT
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+PARTTYPE
+WAFER-GH1.25-4PLB
+DESCRIPTION
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Component Kind
+Standard
+Footprint
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Designator
+CN2
+LCSC Part Name
+1x4P 间距:1.25mm 立贴 系列:GH
+Supplier Part
+455-BM04B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM04B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/WAFER-GH1.25-4PLB/3561382.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-TH_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Pins Structure
+1x4P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+4P
+Number of Rows
+1
+Number of PINs Per Row
+4
+Row Spacing
+-
+Current Rating
+1A
+Contact Material
+Brass
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+-
+Supplementary Features
+Auxiliary Solder Pin
+Color
+Beige
+Z-Height of the Board
+4.2mm
+X-Length of Bottom Edge on Board (Spacing Line)
+8.25mm
+Y-Width of Bottom Edge on Board
+4.95mm
+Name
+BM04B-GHS-TBT
+Description
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Device
+WAFER-GH1.25-4PLB
+Unique ID
+gge160
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I2
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN3
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN3
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge161
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I3
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN4
+FOOTPRINT
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+PARTTYPE
+WAFER-GH1.25-4PLB
+DESCRIPTION
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Component Kind
+Standard
+Footprint
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Designator
+CN4
+LCSC Part Name
+1x4P 间距:1.25mm 立贴 系列:GH
+Supplier Part
+455-BM04B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM04B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/WAFER-GH1.25-4PLB/3561382.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-TH_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Pins Structure
+1x4P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+4P
+Number of Rows
+1
+Number of PINs Per Row
+4
+Row Spacing
+-
+Current Rating
+1A
+Contact Material
+Brass
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+-
+Supplementary Features
+Auxiliary Solder Pin
+Color
+Beige
+Z-Height of the Board
+4.2mm
+X-Length of Bottom Edge on Board (Spacing Line)
+8.25mm
+Y-Width of Bottom Edge on Board
+4.95mm
+Name
+BM04B-GHS-TBT
+Description
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Device
+WAFER-GH1.25-4PLB
+Unique ID
+gge163
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I11
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN5
+FOOTPRINT
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+PARTTYPE
+WAFER-GH1.25-4PLB
+DESCRIPTION
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Component Kind
+Standard
+Footprint
+CONN-SMD_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Designator
+CN5
+LCSC Part Name
+1x4P 间距:1.25mm 立贴 系列:GH
+Supplier Part
+455-BM04B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM04B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/WAFER-GH1.25-4PLB/3561382.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-TH_4P-P1.25_XUNPU_WAFER-GH1.25-4PLB
+Pins Structure
+1x4P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+4P
+Number of Rows
+1
+Number of PINs Per Row
+4
+Row Spacing
+-
+Current Rating
+1A
+Contact Material
+Brass
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+-
+Supplementary Features
+Auxiliary Solder Pin
+Color
+Beige
+Z-Height of the Board
+4.2mm
+X-Length of Bottom Edge on Board (Spacing Line)
+8.25mm
+Y-Width of Bottom Edge on Board
+4.95mm
+Name
+BM04B-GHS-TBT
+Description
+Pins Structure:1x4P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:4P Number of Rows:1 Number of PINs Per Row:4 Row Spacing:- Current Rating:1A Contact Material:Brass Contact Plating:Tin Operating Temperature:-25℃~+85
+Device
+WAFER-GH1.25-4PLB
+Unique ID
+gge164
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I14
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN6
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN6
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge165
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I19
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN7
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN7
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge166
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I22
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN8
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN8
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge167
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I23
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN9
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN9
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge168
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I28
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN10
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN10
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge169
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I29
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN11
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN11
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge170
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I30
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN12
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN12
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge171
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I31
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN13
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN13
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge172
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I40
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN14
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN14
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge173
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I41
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN15
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN15
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge174
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I42
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+CN16
+FOOTPRINT
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+PARTTYPE
+1.25-3PLTDK
+DESCRIPTION
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Component Kind
+Standard
+Footprint
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Designator
+CN16
+LCSC Part Name
+1.25-3P立贴带扣 编带
+Supplier Part
+455-BM03B-GHS-TBTTR-ND
+Manufacturer
+JST Sales America Inc.
+Manufacturer Part
+BM03B-GHS-TBT
+Supplier Footprint
+SMD,P=1.25mm
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/1.25-3PLTDK/3501395.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+CONN-SMD_3P-P1.25_SHOU_1.25-3PLTDK
+Pins Structure
+1x3P
+Pitch
+1.25mm
+Mounting Type
+Surface Mount,Vertical
+Reference Series
+GH
+Number of Pins
+3P
+Number of Rows
+1
+Number of PINs Per Row
+3
+Current Rating
+1A
+Contact Material
+Phosphor Bronze
+Contact Plating
+Tin
+Operating Temperature
+-25℃~+85℃
+Voltage Rating
+125V
+Plastic Material
+LCP
+Flame Retardant Rating
+UL94V-0
+Supplementary Features
+-
+Color
+Beige
+Name
+BM03B-GHS-TBT
+Description
+Pins Structure:1x3P Pitch:1.25mm Mounting Type:Surface Mount,Vertical Reference Series:GH Number of Pins:3P Number of Rows:1 Number of PINs Per Row:3 Current Rating:1A Contact Material:Phosphor Bronze Contact Plating:Tin Operating Temperature:-25℃~+85℃ Op
+Device
+1.25-3PLTDK
+Unique ID
+gge175
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I43
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R20
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R20
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge176
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I52
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R21
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R21
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge177
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I53
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R22
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R22
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge178
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I54
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R23
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R23
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge179
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I55
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R24
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R24
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge180
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I56
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R25
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R25
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge181
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I57
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R26
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R26
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge182
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I58
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R27
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R27
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge183
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I59
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R28
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R28
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge184
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I60
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R29
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R29
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge185
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I61
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R30
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R30
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge186
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I62
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R31
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R31
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge187
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I63
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C29
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C29
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge189
+Reuse Block
+
+Group ID
+
+Channel ID
+$4I4
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U7
+FOOTPRINT
+SENSORS-SMD_MS5611-01BA03
+PARTTYPE
+MS561101BA03-50
+DESCRIPTION
+Pressure range:1Kpa~1.2bar Pressure range:1Kpa~1.2bar Voltage - Supply:1.8V~3.6V Voltage - Supply:1.8V~3.6V Standby Current:140nA Interface:SPI；I2C Module:Yes Absolute Accuracy:150pa Relative Accuracy:- Features:On-chip temperature output；Standby mode；Int
+Component Kind
+Standard
+Footprint
+SENSORS-SMD_MS5611-01BA03
+Designator
+U7
+LCSC Part Name
+气压传感器，带不锈钢帽
+Supplier Part
+223-1622-2-ND
+Manufacturer
+TE Connectivity(泰科电子)
+Manufacturer Part
+MS561101BA03-50
+Supplier Footprint
+QFN-8(3x5)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/MS561101BA03-50/16320.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+SENSORS-SMD_MS5611-01BA03
+Pressure range
+1Kpa~1.2bar
+Voltage - Supply
+1.8V~3.6V
+Standby Current
+140nA
+Interface
+SPI；I2C
+Module
+Yes
+Absolute Accuracy
+150pa
+Relative Accuracy
+-
+Features
+On-chip temperature output；Standby mode；Integrated ADC and digital interface；On-chip calibration and non-volatile storage
+Temperature Coefficient of Offset(TCO)
+-
+Response time
+8.22ms
+Operating Temperature
+-40℃~+85℃
+Name
+MS561101BA03-50
+Description
+Pressure range:1Kpa~1.2bar Pressure range:1Kpa~1.2bar Voltage - Supply:1.8V~3.6V Voltage - Supply:1.8V~3.6V Standby Current:140nA Interface:SPI；I2C Module:Yes Absolute Accuracy:150pa Relative Accuracy:- Features:On-chip temperature output；Standby mode；Int
+Device
+MS561101BA03-50
+Unique ID
+gge188
+Reuse Block
+
+Group ID
+
+Channel ID
+$4I2
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U1
+FOOTPRINT
+LQFP-100_L14.0-W14.0-P0.50-LS16.0-BL
+PARTTYPE
+STM32H743VIT6_C114409
+DESCRIPTION
+CPU Core:- GPIO Ports Number:82 Operating Voltage Range:1.71V~3.6V Operating Voltage Range:1.71V~3.6V CPU Maximum Speed:480MHz Operating Temperature Range:-40℃~+85℃ Operating Temperature Range:-40℃~+85℃ ADC (Bit):16bit DAC (Bit):12bit Universal Serial Bus
+Component Kind
+Standard
+Footprint
+LQFP-100_L14.0-W14.0-P0.50-LS16.0-BL
+Designator
+U1
+LCSC Part Name
+带DSP和DP-FPU的高性能ARM Cortex-M7 MCU，具有2 MB Flash、1 MB RAM、480 MHz CPU、ART加速器、一级缓存、外部存储器接口和大量外设
+Supplier Part
+497-17720-ND
+Manufacturer
+STMicroelectronics
+Manufacturer Part
+STM32H743VIT6
+Supplier Footprint
+LQFP-100(14x14)
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20200508/C529058_DA70143F266D6D825C3A912656F12A87.pdf
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+LQFP-100_L14.0-W14.0-H1.4-LS16.0-P0.50
+CPU Core
+-
+CPU Maximum Speed
+480MHz
+Core Size
+32 Bit
+Program Storage Size
+2MB
+Program Memory Type
+FLASH
+RAM Size
+1MB
+EEPROM
+-
+Number of I/O
+82
+ADC (Bit)
+16bit
+DAC (Bit)
+12bit
+Oscillator Type
+Built-in
+Voltage - Supply
+1.71V~3.6V
+Operating Temperature
+-40℃~+85℃
+Name
+STM32H743VIT6
+Description
+CPU Core:- GPIO Ports Number:82 Operating Voltage Range:1.71V~3.6V Operating Voltage Range:1.71V~3.6V CPU Maximum Speed:480MHz Operating Temperature Range:-40℃~+85℃ Operating Temperature Range:-40℃~+85℃ ADC (Bit):16bit DAC (Bit):12bit Universal Serial Bus
+Device
+STM32H743VIT6_C114409
+Unique ID
+gge1
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I2
+Direct Memory Access
+Yes
+Secure Digital Input and Output
+Yes
+Universal Serial Bus
+Yes
+Operating Temperature Range
+-40℃~+85℃
+Operating Voltage Range
+1.71V~3.6V
+GPIO Ports Number
+82
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U9
+FOOTPRINT
+TAG-CONNECT_TC2030-IDC-NL
+PARTTYPE
+TC2030
+DESCRIPTION
+TC2030 - Joris
+Component Kind
+Standard
+Footprint
+TAG-CONNECT_TC2030-IDC-NL
+Designator
+U9
+Name
+debig
+Add into BOM
+no
+Description
+TC2030 - Joris
+LCSC Part Name
+
+Value
+debug
+Link
+
+3D Model Title
+
+Device
+TC2030
+Unique ID
+gge190
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I92
+PCB Layer
+BottomLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U13
+FOOTPRINT
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+PARTTYPE
+TPS3840DL30DBVR
+DESCRIPTION
+ChipType:Power Supervisor Output Type:Open Drain Voltage - Supply:1.5V~10V Voltage - Supply:1.5V~10V Reset Active Level:Active Low Threshold Voltage:3V Number of Voltages Monitored:1 Manual Reset:Yes Reset Timeout:619ms Operating Temperature:-40℃~+125℃@(T
+Component Kind
+Standard
+Footprint
+SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR
+Designator
+U13
+LCSC Part Name
+具有MR和可编程延迟的毫微功耗高输入电压监控器
+Supplier Part
+296-TPS3840DL30DBVRTR-ND
+Manufacturer
+Texas Instruments
+Manufacturer Part
+TPS3840DL30DBVR
+Supplier Footprint
+SOT-23-5
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com/cn/lit/gpn/tps3840
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+SOT-23-5_L2.9-W1.6-H1.1-LS2.8-P0.95
+ChipType
+Power Supervisor
+Output Type
+Open Drain
+Voltage - Supply
+1.5V~10V
+Reset Active Level
+Active Low
+Threshold Voltage
+3V
+Number of Voltages Monitored
+1
+Manual Reset
+Yes
+Reset Timeout
+619ms
+Operating Temperature
+-40℃~+125℃@(TJ)
+Quiescent Current
+300nA
+Name
+TPS3840DL30DBVR
+Description
+ChipType:Power Supervisor Output Type:Open Drain Voltage - Supply:1.5V~10V Voltage - Supply:1.5V~10V Reset Active Level:Active Low Threshold Voltage:3V Number of Voltages Monitored:1 Manual Reset:Yes Reset Timeout:619ms Operating Temperature:-40℃~+125℃@(T
+Device
+TPS3840DL30DBVR
+Unique ID
+gge191
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I95
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+C36
+FOOTPRINT
+C0402
+PARTTYPE
+CL05B104KB54PNC
+DESCRIPTION
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Component Kind
+Standard
+Footprint
+C0402
+Designator
+C36
+LCSC Part Name
+100nF ±10% 50V
+Supplier Part
+1276-CL05B104KB54PNCTR-ND
+Manufacturer
+Samsung Electro-Mechanics
+Manufacturer Part
+CL05B104KB54PNC
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/CL05B104KB54PNC/291005.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+C0402_L1.0-W0.5-H0.5
+Value
+100nF
+Tolerance
+±10%
+Voltage Rating
+50V
+Temperature Coefficient
+X7R
+Name
+100nF
+Description
+Capacitance:100nF Tolerance:±10% Tolerance:±10% Voltage Rating:50V Temperature Coefficient:X7R 
+Device
+CL05B104KB54PNC
+Unique ID
+gge101_0
+Reuse Block
+
+Group ID
+
+Channel ID
+$1I99
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+Q2
+FOOTPRINT
+SOT-23F_L2.9-W1.8-P0.95-LS2.4-BR
+PARTTYPE
+SSM3J332R,LF
+DESCRIPTION
+Number:1 P-Channel Drain to Source Voltage:30V Current - Continuous Drain(Id):6A RDS(on):144mΩ@1.8V Pd - Power Dissipation:1W Gate Threshold Voltage (Vgs(th)):1.2V Gate Charge(Qg):8.2nC@4.5V Input Capacitance(Ciss):560pF Reverse Transfer Capacitance (Crss
+Component Kind
+Standard
+Footprint
+SOT-23F_L2.9-W1.8-P0.95-LS2.4-BR
+Designator
+Q2
+LCSC Part Name
+1个P沟道 耐压:30V 电流:6A
+Supplier Part
+SSM3J332RLFTR-ND
+Manufacturer
+Toshiba Semiconductor and Storage
+Manufacturer Part
+SSM3J332R,LF
+Supplier Footprint
+SOT-23F
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/SSM3J332R%252CLF/157699.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+SOT-23F_L2.9-W1.8-P0.95-LS2.4-BR
+Number
+1 P-Channel
+Drain to Source Voltage
+30V
+Current - Continuous Drain(Id)
+6A
+RDS(on)
+144mΩ@1.8V
+Pd - Power Dissipation
+1W
+Gate Threshold Voltage (Vgs(th))
+1.2V
+Gate Charge(Qg)
+8.2nC@4.5V
+Input Capacitance(Ciss)
+560pF
+Reverse Transfer Capacitance (Crss@Vds)
+65pF
+Operating Temperature
+-
+Type
+P-Channel
+Output Capacitance(Coss)
+80pF
+Name
+SSM3J332R,LF
+Description
+Number:1 P-Channel Drain to Source Voltage:30V Current - Continuous Drain(Id):6A RDS(on):144mΩ@1.8V Pd - Power Dissipation:1W Gate Threshold Voltage (Vgs(th)):1.2V Gate Charge(Qg):8.2nC@4.5V Input Capacitance(Ciss):560pF Reverse Transfer Capacitance (Crss
+Device
+SSM3J332R,LF
+Unique ID
+gge192
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I29
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D1
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D1
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge193
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I33
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D2
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D2
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge194
+Reuse Block
+
+Group ID
+
+Channel ID
+$6I34
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D3
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D3
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge195
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I67
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D4
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D4
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge196
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I68
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D5
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D5
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge197
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I69
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D6
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D6
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge198
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I70
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D7
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D7
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge199
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I71
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+D8
+FOOTPRINT
+DFN1006-2L-BI
+PARTTYPE
+PESD5V0F1BLZ
+DESCRIPTION
+
+Component Kind
+Standard
+Footprint
+DFN1006-2L-BI
+Designator
+D8
+LCSC Part Name
+PESD5V0F1BLZ
+Supplier Part
+TESD5V0L1UCRJGCT-ND
+Manufacturer
+Taiwan Semiconductor Corporation
+Manufacturer Part
+TESD5V0L1UC RJG
+Supplier Footprint
+DFN1006-2
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://services.taiwansemi.com/storage/resources/datasheet/TESD5V0L1UC_E2007.pdf
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+DFN1006-2L-BI
+Name
+TESD5V0L1UC RJG
+Description
+
+Device
+PESD5V0F1BLZ
+Unique ID
+gge200
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I72
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R32
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R32
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I28
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R33
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-073K9L
+DESCRIPTION
+Type:Thick Film Resistor Resistance:3.9kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R33
+LCSC Part Name
+厚膜电阻 3.9kΩ ±1% 62.5mW
+Supplier Part
+311-3.90KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-073K9L
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-073K9L/142762.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+3.9kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+3.9kΩ
+Description
+Type:Thick Film Resistor Resistance:3.9kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-073K9L
+Unique ID
+gge202
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I30
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R34
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-073K9L
+DESCRIPTION
+Type:Thick Film Resistor Resistance:3.9kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R34
+LCSC Part Name
+厚膜电阻 3.9kΩ ±1% 62.5mW
+Supplier Part
+311-3.90KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-073K9L
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-073K9L/142762.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+3.9kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+3.9kΩ
+Description
+Type:Thick Film Resistor Resistance:3.9kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-073K9L
+Unique ID
+gge203
+Reuse Block
+
+Group ID
+
+Channel ID
+$5I32
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R35
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R35
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_0
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I79
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R36
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R36
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_1
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I80
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R37
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R37
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_2
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I81
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R38
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R38
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_3
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I82
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R39
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R39
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_4
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I83
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R40
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R40
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_5
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I84
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R41
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R41
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_6
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I85
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R42
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R42
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_7
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I86
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R43
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R43
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_8
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I87
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R44
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R44
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_9
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I88
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R45
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R45
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_10
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I89
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R46
+FOOTPRINT
+R0402
+PARTTYPE
+RC0402FR-0710KL
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R46
+LCSC Part Name
+厚膜电阻 10kΩ ±1% 62.5mW
+Supplier Part
+311-10.0KLRCT-ND
+Manufacturer
+YAGEO(国巨)
+Manufacturer Part
+RC0402FR-0710KL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/RC0402FR-0710KL/61542.html
+Supplier
+DigiKey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+RC0402FR-0710KL
+Unique ID
+gge201_11
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I90
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R47
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R47
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge185_0
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I91
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R48
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF3300TCE
+DESCRIPTION
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R48
+LCSC Part Name
+330Ω ±1% 62.5mW 厚膜电阻
+Supplier Part
+311-33.0LRCT-ND
+Manufacturer
+YAGEO
+Manufacturer Part
+RC0402FR-0733RL
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF3300TCE/25847.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistors
+Value
+33 Ω
+Tolerance
+±1%
+Power(Watts)
+1/16W
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+33 Ω
+Description
+Type:Thick Film Resistors Resistance:330Ω Tolerance:±1% Tolerance:±1% Power(Watts):1/16W Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF3300TCE
+Unique ID
+gge185_1
+Reuse Block
+
+Group ID
+
+Channel ID
+$7I92
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R50
+FOOTPRINT
+R0805
+PARTTYPE
+0805W8F1003T5E
+DESCRIPTION
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0805
+Designator
+R50
+LCSC Part Name
+100kΩ ±1% 125mW 厚膜电阻
+Supplier Part
+C149504
+Manufacturer
+UNI-ROYAL(厚声)
+Manufacturer Part
+0805W8F1003T5E
+Supplier Footprint
+0805
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0805W8F1003T5E/160838.html
+Supplier
+LCSC
+Add into BOM
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistor
+Value
+100kΩ
+Tolerance
+±1%
+Power(Watts)
+125mW
+Voltage-Supply(Max)
+150V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+100kΩ
+Description
+Type:Thick Film Resistor Resistance:100kΩ Tolerance:±1% Tolerance:±1% Power(Watts):125mW Voltage-Supply(Max):150V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0805W8F1003T5E
+Unique ID
+gge206
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I33
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R51
+FOOTPRINT
+R0402
+PARTTYPE
+0402WGF1002TCE
+DESCRIPTION
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0402
+Designator
+R51
+LCSC Part Name
+10kΩ ±1% 62.5mW 厚膜电阻
+Supplier Part
+RMCF0402FT10K0TR-ND
+Manufacturer
+Stackpole Electronics Inc
+Manufacturer Part
+RMCF0402FT10K0
+Supplier Footprint
+0402
+JLCPCB Part Class
+Basic Part
+Datasheet
+https://item.szlcsc.com/datasheet/0402WGF1002TCE/26487.html
+Supplier
+Digikey
+Add into BOM
+yes
+3D Model Title
+R0402_L1.0-W0.5-H0.4
+Type
+Thick Film Resistor
+Value
+10kΩ
+Tolerance
+±1%
+Power(Watts)
+62.5mW
+Voltage-Supply(Max)
+50V
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature
+-55℃~+155℃
+Name
+10kΩ
+Description
+Type:Thick Film Resistor Resistance:10kΩ Tolerance:±1% Tolerance:±1% Power(Watts):62.5mW Voltage-Supply(Max):50V Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature:-55℃~+155℃ Operating Temperature:-55℃~+155℃ 
+Device
+0402WGF1002TCE
+Unique ID
+gge110_0
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I36
+Check
+true
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+U14
+FOOTPRINT
+SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL
+PARTTYPE
+TPS2117DRLR
+DESCRIPTION
+Switch Circuit:2:1 Number of Channels:2 Ron:20mΩ Voltage - Supply:1.6V~5.5V Voltage - Supply:1.6V~5.5V Operating Temperature:-40℃~+105℃ Operating Temperature:-40℃~+105℃ Features:Fault protection 
+Component Kind
+Standard
+Footprint
+SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL
+Designator
+U14
+LCSC Part Name
+TPS2117 1.6-V至5.5-V，4-A低IQ电源多路复用器，带手动和优先切换功能
+Supplier Part
+C22399676
+Manufacturer
+TI(德州仪器)
+Manufacturer Part
+TPS2117DRLR
+Supplier Footprint
+SOT-5X3
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://www.ti.com.cn/cn/lit/ds/symlink/tps2117.pdf?ts=1739366132054
+Supplier
+LCSC
+Add into BOM
+yes
+3D Model Title
+SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BL
+Switch Circuit
+2:1
+Number of Channels
+2
+Ron
+20mΩ
+Voltage - Supply
+1.6V~5.5V
+Operating Temperature
+-40℃~+105℃
+Features
+Fault protection
+Name
+TPS2117DRLR
+Description
+Switch Circuit:2:1 Number of Channels:2 Ron:20mΩ Voltage - Supply:1.6V~5.5V Voltage - Supply:1.6V~5.5V Operating Temperature:-40℃~+105℃ Operating Temperature:-40℃~+105℃ Features:Fault protection 
+Device
+TPS2117DRLR
+Unique ID
+gge204
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I24
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+R49
+FOOTPRINT
+R0805
+PARTTYPE
+WR08X3093FTL
+DESCRIPTION
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Component Kind
+Standard
+Footprint
+R0805
+Designator
+R49
+LCSC Part Name
+厚膜电阻 309kΩ ±1% 125mW
+Supplier Part
+C170877
+Manufacturer
+Walsin(华新科)
+Manufacturer Part
+WR08X3093FTL
+Supplier Footprint
+0805
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://atta.szlcsc.com/upload/public/pdf/source/20191217/C470037_D99261402F77DA8B1D609223749D445A.pdf
+Supplier
+LCSC
+Add into BOM
+yes
+3D Model Title
+R0805_L2.0-W1.3-H0.6
+Type
+Thick Film Resistors
+Value
+309kΩ
+Tolerance
+±1%
+Power(Watts)
+
+Overload Voltage (Max)
+
+Temperature Coefficient
+±100ppm/℃
+Operating Temperature Range
+-55℃~+155℃
+Name
+309kΩ
+Description
+Type:Thick Film Resistors Resistance: Tolerance:±1% Tolerance:±1% Power(Watts): Overload Voltage (Max): Temperature Coefficient:±100ppm/℃ Temperature Coefficient:±100ppm/℃ Operating Temperature Range:-55℃~+155℃ Operating Temperature Range:-55℃~+155℃ 
+Device
+WR08X3093FTL
+Unique ID
+gge207
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I38
+Resistance
+309kΩ
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+[
+DESIGNATOR
+L2
+FOOTPRINT
+IND-SMD_L5.5-W5.3_YSPIT0530A
+PARTTYPE
+YSMC0320H-1R5MB
+DESCRIPTION
+Inductance:1.5uH Tolerance:±20% Tolerance:±20% Current Rating:5.8A Current - Saturation(Isat):6.5A DC Resistance(DCR):19mΩ Type:Molded Inductor 
+Component Kind
+Standard
+Footprint
+IND-SMD_L5.5-W5.3_YSPIT0530A
+Designator
+L2
+LCSC Part Name
+1.5uH ±20% 6.5A
+Supplier Part
+2457-XGL5020-152MEC-ND
+Manufacturer
+COILCRAFT
+Manufacturer Part
+XGL5020-152MEC.
+JLCPCB Part Class
+Extended Part
+Datasheet
+https://item.szlcsc.com/datasheet/YSMC0320H-1R5MB/43203908.html
+Supplier
+Digikey
+Add into BOM
+yes
+Value
+1.5uH
+Tolerance
+±20%
+Current Rating
+5.8A
+Current - Saturation(Isat)
+6.5A
+DC Resistance(DCR)
+19mΩ
+Type
+Molded Inductor
+Name
+1.5uH
+Description
+Inductance:1.5uH Tolerance:±20% Tolerance:±20% Current Rating:5.8A Current - Saturation(Isat):6.5A DC Resistance(DCR):19mΩ Type:Molded Inductor 
+Device
+YSMC0320H-1R5MB
+Unique ID
+gge129
+3D Model Title
+undefined
+Reuse Block
+
+Group ID
+
+Channel ID
+$3I5
+Supplier Footprint
+SMD,3x3mm
+PCB Layer
+TopLayer
+Convert to PCB
+yes
+
+*
+]
+(
+NRST 
+C1-1 CL05B104KB54PNC-1 Passive 
+R2-2 0402WGF1002TCE-2 Passive 
+U1-14 STM32H743VIT6_C114409-14 Passive 
+U9-3 TC2030-3 Passive 
+U13-1 TPS3840DL30DBVR-1 Passive 
+)
+(
+GND 
+C1-2 CL05B104KB54PNC-2 Passive 
+C2-1 CL05B104KB54PNC-1 Passive 
+C3-1 CL05B104KB54PNC-1 Passive 
+C4-1 CL05B104KB54PNC-1 Passive 
+C5-1 CL05B104KB54PNC-1 Passive 
+C6-1 CL05B104KB54PNC-1 Passive 
+C7-1 CL05A225MQ5NSNC-1 Passive 
+C8-1 CL05A106MQ5NUNC-1 Passive 
+C9-1 CL05B103KB5NNNC-1 Passive 
+C10-1 CL05B104KB54PNC-1 Passive 
+C11-1 CL05A225MQ5NSNC-1 Passive 
+C12-1 CL05B103KB5NNNC-1 Passive 
+C13-1 CL05B104KB54PNC-1 Passive 
+C14-1 CL05A225MQ5NSNC-1 Passive 
+C15-1 CL05C120JB5NNNC-1 Passive 
+C16-1 CL05C120JB5NNNC-1 Passive 
+C17-1 CL05C120JB5NNNC-1 Passive 
+C18-1 CL05C120JB5NNNC-1 Passive 
+C19-1 CL05A225MQ5NSNC-1 Passive 
+C20-1 CL05A105KA5NQNC-1 Passive 
+C21-1 CL05A105KA5NQNC-1 Passive 
+C22-1 CL05A105KA5NQNC-1 Passive 
+C23-1 CL05A105KA5NQNC-1 Passive 
+C24-1 CL21B106KOQNNNE-1 Passive 
+C25-1 CL21B106KOQNNNE-1 Passive 
+C26-2 CL05B104KB54PNC-2 Passive 
+C27-1 GRM21BZ71A226ME15L-1 Passive 
+C28-1 GRM21BZ71A226ME15L-1 Passive 
+C30-2 CL05B104KB54PNC-2 Passive 
+C31-2 CL05A475MP5NRNC-2 Passive 
+C32-2 CL05B104KB54PNC-2 Passive 
+C33-2 CL05B104KB54PNC-2 Passive 
+C34-1 CL05B104KB54PNC-1 Passive 
+C35-1 CL05A106MQ5NUNC-1 Passive 
+R1-2 0402WGF1002TCE-2 Passive 
+R4-1 0402WGF3302TCE-1 Passive 
+R7-2 CRCW0402180KFKED-2 Passive 
+R9-2 0402WGF1002TCE-2 Passive 
+R10-1 ERJ2RKF4752X-1 Passive 
+R12-1 0402WGF5101TCE-1 Passive 
+R13-2 0402WGF5101TCE-2 Passive 
+SW1-2 TS-1088-AR02016-2 Passive 
+U2-6 ICM-42688-P-6 Passive 
+U2-7 ICM-42688-P-7 Passive 
+U2-11 ICM-42688-P-11 Passive 
+U3-6 ICM-42688-P-6 Passive 
+U3-7 ICM-42688-P-7 Passive 
+U3-11 ICM-42688-P-11 Passive 
+U4-2 TPS63020DSJR-2 Passive 
+U4-15 TPS63020DSJR-15 Passive 
+U6-4 W25Q128JVSIQ-4 Passive 
+U8-3 CP2102N-A02-GQFN28R-3 Passive 
+U8-29 CP2102N-A02-GQFN28R-29 Passive 
+U11-2 RM3100(13156)-2 Passive 
+U11-3 RM3100(13156)-3 Passive 
+U11-5 RM3100(13156)-5 Passive 
+U11-19 RM3100(13156)-19 Passive 
+U11-20 RM3100(13156)-20 Passive 
+U11-28 RM3100(13156)-28 Passive 
+USB1-1 TYPE-C 16PIN 2MD(073)-1 Passive 
+USB1-12 TYPE-C 16PIN 2MD(073)-12 Passive 
+USB1-13 TYPE-C 16PIN 2MD(073)-13 Passive 
+USB1-14 TYPE-C 16PIN 2MD(073)-14 Passive 
+X2-2 X322525MSB4SI-2 Passive 
+X2-4 X322525MSB4SI-4 Passive 
+CN1-3 GH-6PLT-3 Passive 
+CN1-4 GH-6PLT-4 Passive 
+CN2-4 WAFER-GH1.25-4PLB-4 Passive 
+CN3-1 1.25-3PLTDK-1 Passive 
+CN4-1 WAFER-GH1.25-4PLB-1 Passive 
+CN4-4 WAFER-GH1.25-4PLB-4 Passive 
+CN5-4 WAFER-GH1.25-4PLB-4 Passive 
+CN6-1 1.25-3PLTDK-1 Passive 
+CN7-1 1.25-3PLTDK-1 Passive 
+CN8-1 1.25-3PLTDK-1 Passive 
+CN9-1 1.25-3PLTDK-1 Passive 
+CN10-1 1.25-3PLTDK-1 Passive 
+CN11-1 1.25-3PLTDK-1 Passive 
+CN12-1 1.25-3PLTDK-1 Passive 
+CN13-1 1.25-3PLTDK-1 Passive 
+CN14-1 1.25-3PLTDK-1 Passive 
+CN15-1 1.25-3PLTDK-1 Passive 
+CN16-1 1.25-3PLTDK-1 Passive 
+C29-1 CL05B104KB54PNC-1 Passive 
+U7-3 MS561101BA03-50-3 Passive 
+U7-4 MS561101BA03-50-4 Passive 
+U7-5 MS561101BA03-50-5 Passive 
+U1-10 STM32H743VIT6_C114409-10 Passive 
+U1-19 STM32H743VIT6_C114409-19 Passive 
+U1-26 STM32H743VIT6_C114409-26 Passive 
+U1-49 STM32H743VIT6_C114409-49 Passive 
+U1-74 STM32H743VIT6_C114409-74 Passive 
+U1-99 STM32H743VIT6_C114409-99 Passive 
+U9-5 TC2030-5 Passive 
+U13-3 TPS3840DL30DBVR-3 Passive 
+C36-1 CL05B104KB54PNC-1 Passive 
+Q2-1 SSM3J332R,LF-1 Passive 
+D1-1 PESD5V0F1BLZ-1 Passive 
+D2-1 PESD5V0F1BLZ-1 Passive 
+D3-2 PESD5V0F1BLZ-2 Passive 
+D4-2 PESD5V0F1BLZ-2 Passive 
+D5-2 PESD5V0F1BLZ-2 Passive 
+D6-2 PESD5V0F1BLZ-2 Passive 
+D7-2 PESD5V0F1BLZ-2 Passive 
+D8-2 PESD5V0F1BLZ-2 Passive 
+R35-1 RC0402FR-0710KL-1 Passive 
+R36-1 RC0402FR-0710KL-1 Passive 
+R37-1 RC0402FR-0710KL-1 Passive 
+R38-1 RC0402FR-0710KL-1 Passive 
+R39-1 RC0402FR-0710KL-1 Passive 
+R40-1 RC0402FR-0710KL-1 Passive 
+R41-1 RC0402FR-0710KL-1 Passive 
+R42-1 RC0402FR-0710KL-1 Passive 
+R43-1 RC0402FR-0710KL-1 Passive 
+R44-1 RC0402FR-0710KL-1 Passive 
+R45-1 RC0402FR-0710KL-1 Passive 
+R46-1 RC0402FR-0710KL-1 Passive 
+R50-1 0805W8F1003T5E-1 Passive 
+U14-1 TPS2117DRLR-1 Passive 
+)
+(
+3V3 
+C2-2 CL05B104KB54PNC-2 Passive 
+C3-2 CL05B104KB54PNC-2 Passive 
+C4-2 CL05B104KB54PNC-2 Passive 
+C5-2 CL05B104KB54PNC-2 Passive 
+C6-2 CL05B104KB54PNC-2 Passive 
+C8-2 CL05A106MQ5NUNC-2 Passive 
+C9-2 CL05B103KB5NNNC-2 Passive 
+C10-2 CL05B104KB54PNC-2 Passive 
+C11-2 CL05A225MQ5NSNC-2 Passive 
+C12-2 CL05B103KB5NNNC-2 Passive 
+C13-2 CL05B104KB54PNC-2 Passive 
+C14-2 CL05A225MQ5NSNC-2 Passive 
+C27-2 GRM21BZ71A226ME15L-2 Passive 
+C28-2 GRM21BZ71A226ME15L-2 Passive 
+C30-1 CL05B104KB54PNC-1 Passive 
+C31-1 CL05A475MP5NRNC-1 Passive 
+C32-1 CL05B104KB54PNC-1 Passive 
+C33-1 CL05B104KB54PNC-1 Passive 
+C34-2 CL05B104KB54PNC-2 Passive 
+C35-2 CL05A106MQ5NUNC-2 Passive 
+L1-1 BLM15PD121SN1D-1 Passive 
+R2-1 0402WGF1002TCE-1 Passive 
+R3-2 0402WGF1002TCE-2 Passive 
+R6-1 FRC0402J105 TS-1 Passive 
+R11-1 0402WGF1001TCE-1 Passive 
+SW6-2 TS-1088-AR02016-2 Passive 
+U2-5 ICM-42688-P-5 Passive 
+U2-8 ICM-42688-P-8 Passive 
+U3-5 ICM-42688-P-5 Passive 
+U3-8 ICM-42688-P-8 Passive 
+U4-4 TPS63020DSJR-4 Passive 
+U4-5 TPS63020DSJR-5 Passive 
+U6-8 W25Q128JVSIQ-8 Passive 
+U8-6 CP2102N-A02-GQFN28R-6 Passive 
+U8-7 CP2102N-A02-GQFN28R-7 Passive 
+U11-4 RM3100(13156)-4 Passive 
+U11-14 RM3100(13156)-14 Passive 
+U11-26 RM3100(13156)-26 Passive 
+C29-2 CL05B104KB54PNC-2 Passive 
+U7-1 MS561101BA03-50-1 Passive 
+U7-2 MS561101BA03-50-2 Passive 
+U1-6 STM32H743VIT6_C114409-6 Passive 
+U1-11 STM32H743VIT6_C114409-11 Passive 
+U1-27 STM32H743VIT6_C114409-27 Passive 
+U1-50 STM32H743VIT6_C114409-50 Passive 
+U1-75 STM32H743VIT6_C114409-75 Passive 
+U1-100 STM32H743VIT6_C114409-100 Passive 
+U9-1 TC2030-1 Passive 
+U13-2 TPS3840DL30DBVR-2 Passive 
+C36-2 CL05B104KB54PNC-2 Passive 
+R32-1 RC0402FR-0710KL-1 Passive 
+R33-1 RC0402FR-073K9L-1 Passive 
+R34-1 RC0402FR-073K9L-1 Passive 
+)
+(
+$1N72 
+C7-2 CL05A225MQ5NSNC-2 Passive 
+U1-73 STM32H743VIT6_C114409-73 Passive 
+)
+(
+$1N21 
+C15-2 CL05C120JB5NNNC-2 Passive 
+X1-2 SC-32S32.768kHz20PPM12.5pF-2 Passive 
+U1-8 STM32H743VIT6_C114409-8 Passive 
+)
+(
+$1N22 
+C16-2 CL05C120JB5NNNC-2 Passive 
+X1-1 SC-32S32.768kHz20PPM12.5pF-1 Passive 
+U1-9 STM32H743VIT6_C114409-9 Passive 
+)
+(
+$1N26 
+C17-2 CL05C120JB5NNNC-2 Passive 
+X2-1 X322525MSB4SI-1 Passive 
+U1-13 STM32H743VIT6_C114409-13 Passive 
+)
+(
+$1N25 
+C18-2 CL05C120JB5NNNC-2 Passive 
+X2-3 X322525MSB4SI-3 Passive 
+U1-12 STM32H743VIT6_C114409-12 Passive 
+)
+(
+$1N74 
+C19-2 CL05A225MQ5NSNC-2 Passive 
+U1-48 STM32H743VIT6_C114409-48 Passive 
+)
+(
+VDDA 
+C20-2 CL05A105KA5NQNC-2 Passive 
+C21-2 CL05A105KA5NQNC-2 Passive 
+L1-2 BLM15PD121SN1D-2 Passive 
+R5-1 0402WGF0000TCE-1 Passive 
+U1-21 STM32H743VIT6_C114409-21 Passive 
+)
+(
+VREF+ 
+C22-2 CL05A105KA5NQNC-2 Passive 
+C23-2 CL05A105KA5NQNC-2 Passive 
+R5-2 0402WGF0000TCE-2 Passive 
+U1-20 STM32H743VIT6_C114409-20 Passive 
+)
+(
+MUXED_5V 
+C24-2 CL21B106KOQNNNE-2 Passive 
+C25-2 CL21B106KOQNNNE-2 Passive 
+C26-1 CL05B104KB54PNC-1 Passive 
+U4-1 TPS63020DSJR-1 Passive 
+U4-10 TPS63020DSJR-10 Passive 
+U4-11 TPS63020DSJR-11 Passive 
+U4-12 TPS63020DSJR-12 Passive 
+U4-13 TPS63020DSJR-13 Passive 
+U14-2 TPS2117DRLR-2 Passive 
+U14-7 TPS2117DRLR-7 Passive 
+)
+(
+BOOT0 
+R1-1 0402WGF1002TCE-1 Passive 
+SW6-1 TS-1088-AR02016-1 Passive 
+U1-94 STM32H743VIT6_C114409-94 Passive 
+)
+(
+QSPI_FLASH_CS 
+R3-1 0402WGF1002TCE-1 Passive 
+U6-1 W25Q128JVSIQ-1 Passive 
+U1-92 STM32H743VIT6_C114409-92 Passive 
+)
+(
+$5N18 
+R4-2 0402WGF3302TCE-2 Passive 
+U11-25 RM3100(13156)-25 Passive 
+)
+(
+$3N9 
+R6-2 FRC0402J105 TS-2 Passive 
+R7-1 CRCW0402180KFKED-1 Passive 
+U4-3 TPS63020DSJR-3 Passive 
+)
+(
+$6N14 
+R8-1 CRCW040222K1FKED-1 Passive 
+R10-2 ERJ2RKF4752X-2 Passive 
+U8-8 CP2102N-A02-GQFN28R-8 Passive 
+)
+(
+VBUS 
+R8-2 CRCW040222K1FKED-2 Passive 
+USB1-2 TYPE-C 16PIN 2MD(073)-2 Passive 
+USB1-11 TYPE-C 16PIN 2MD(073)-11 Passive 
+U14-6 TPS2117DRLR-6 Passive 
+)
+(
+$6N10 
+R9-1 0402WGF1002TCE-1 Passive 
+U8-11 CP2102N-A02-GQFN28R-11 Passive 
+)
+(
+$6N12 
+R11-2 0402WGF1001TCE-2 Passive 
+U8-9 CP2102N-A02-GQFN28R-9 Passive 
+)
+(
+$6N27 
+R12-2 0402WGF5101TCE-2 Passive 
+USB1-4 TYPE-C 16PIN 2MD(073)-4 Passive 
+)
+(
+$6N28 
+R13-1 0402WGF5101TCE-1 Passive 
+USB1-10 TYPE-C 16PIN 2MD(073)-10 Passive 
+)
+(
+$5N20 
+R14-1 CRCW0402121RFKED-1 Passive 
+U11-9 RM3100(13156)-9 Passive 
+)
+(
+$5N33 
+R14-2 CRCW0402121RFKED-2 Passive 
+U11-8 RM3100(13156)-8 Passive 
+U12-2 13101/RM3100-2 Passive 
+)
+(
+$5N21 
+R15-1 CRCW0402121RFKED-1 Passive 
+U11-6 RM3100(13156)-6 Passive 
+)
+(
+$5N31 
+R15-2 CRCW0402121RFKED-2 Passive 
+U11-7 RM3100(13156)-7 Passive 
+U12-1 13101/RM3100-1 Passive 
+)
+(
+$5N22 
+R16-1 CRCW0402121RFKED-1 Passive 
+U11-13 RM3100(13156)-13 Passive 
+)
+(
+$5N3 
+R16-2 CRCW0402121RFKED-2 Passive 
+U10-2 RM3100(13104)-2 Passive 
+U11-12 RM3100(13156)-12 Passive 
+)
+(
+$5N23 
+R17-1 CRCW0402121RFKED-1 Passive 
+U11-10 RM3100(13156)-10 Passive 
+)
+(
+$5N4 
+R17-2 CRCW0402121RFKED-2 Passive 
+U10-1 RM3100(13104)-1 Passive 
+U11-11 RM3100(13156)-11 Passive 
+)
+(
+$5N24 
+R18-1 CRCW0402121RFKED-1 Passive 
+U11-18 RM3100(13156)-18 Passive 
+)
+(
+$5N29 
+R18-2 CRCW0402121RFKED-2 Passive 
+U5-2 RM3100(13104)-2 Passive 
+U11-17 RM3100(13156)-17 Passive 
+)
+(
+$5N25 
+R19-1 CRCW0402121RFKED-1 Passive 
+U11-15 RM3100(13156)-15 Passive 
+)
+(
+$5N27 
+R19-2 CRCW0402121RFKED-2 Passive 
+U5-1 RM3100(13104)-1 Passive 
+U11-16 RM3100(13156)-16 Passive 
+)
+(
+PC13 
+SW1-1 TS-1088-AR02016-1 Passive 
+U1-7 STM32H743VIT6_C114409-7 Passive 
+)
+(
+IMU1_SPI_MISO 
+U2-1 ICM-42688-P-1 Passive 
+U1-30 STM32H743VIT6_C114409-30 Passive 
+)
+(
+IMU1_INT1 
+U2-4 ICM-42688-P-4 Passive 
+U1-80 STM32H743VIT6_C114409-80 Passive 
+)
+(
+IMU1_INT2 
+U2-9 ICM-42688-P-9 Passive 
+U1-79 STM32H743VIT6_C114409-79 Passive 
+)
+(
+IMU1_SPI_CS 
+U2-12 ICM-42688-P-12 Passive 
+U1-28 STM32H743VIT6_C114409-28 Passive 
+)
+(
+IMU1_SPI_SCLK 
+U2-13 ICM-42688-P-13 Passive 
+U1-29 STM32H743VIT6_C114409-29 Passive 
+)
+(
+IMU1_SPI_MOSI 
+U2-14 ICM-42688-P-14 Passive 
+U1-31 STM32H743VIT6_C114409-31 Passive 
+)
+(
+IMU2_SPI_MISO 
+U3-1 ICM-42688-P-1 Passive 
+U1-53 STM32H743VIT6_C114409-53 Passive 
+)
+(
+IMU2_INT1 
+U3-4 ICM-42688-P-4 Passive 
+U1-78 STM32H743VIT6_C114409-78 Passive 
+)
+(
+IMU2_INT2 
+U3-9 ICM-42688-P-9 Passive 
+U1-77 STM32H743VIT6_C114409-77 Passive 
+)
+(
+IMU2_SPI_CS 
+U3-12 ICM-42688-P-12 Passive 
+U1-51 STM32H743VIT6_C114409-51 Passive 
+)
+(
+IMU2_SPI_SCLK 
+U3-13 ICM-42688-P-13 Passive 
+U1-52 STM32H743VIT6_C114409-52 Passive 
+)
+(
+IMU2_SPI_MOSI 
+U3-14 ICM-42688-P-14 Passive 
+U1-54 STM32H743VIT6_C114409-54 Passive 
+)
+(
+$3N3 
+U4-6 TPS63020DSJR-6 Passive 
+U4-7 TPS63020DSJR-7 Passive 
+L2-2 YSMC0320H-1R5MB-2 Passive 
+)
+(
+$3N2 
+U4-8 TPS63020DSJR-8 Passive 
+U4-9 TPS63020DSJR-9 Passive 
+L2-1 YSMC0320H-1R5MB-1 Passive 
+)
+(
+QSPI_FLASH_IO1 
+U6-2 W25Q128JVSIQ-2 Passive 
+U1-59 STM32H743VIT6_C114409-59 Passive 
+)
+(
+QSPI_FLASH_IO2 
+U6-3 W25Q128JVSIQ-3 Passive 
+U1-1 STM32H743VIT6_C114409-1 Passive 
+)
+(
+QSPI_FLASH_IO0 
+U6-5 W25Q128JVSIQ-5 Passive 
+U1-58 STM32H743VIT6_C114409-58 Passive 
+)
+(
+QSPI_FLASH_CLK 
+U6-6 W25Q128JVSIQ-6 Passive 
+U1-36 STM32H743VIT6_C114409-36 Passive 
+)
+(
+QSPI_FLASH_IO3 
+U6-7 W25Q128JVSIQ-7 Passive 
+U1-60 STM32H743VIT6_C114409-60 Passive 
+)
+(
+D+ 
+U8-4 CP2102N-A02-GQFN28R-4 Passive 
+USB1-6 TYPE-C 16PIN 2MD(073)-6 Passive 
+USB1-8 TYPE-C 16PIN 2MD(073)-8 Passive 
+D1-2 PESD5V0F1BLZ-2 Passive 
+)
+(
+D- 
+U8-5 CP2102N-A02-GQFN28R-5 Passive 
+USB1-5 TYPE-C 16PIN 2MD(073)-5 Passive 
+USB1-7 TYPE-C 16PIN 2MD(073)-7 Passive 
+D2-2 PESD5V0F1BLZ-2 Passive 
+)
+(
+USB_UART_TX 
+U8-25 CP2102N-A02-GQFN28R-25 Passive 
+U1-38 STM32H743VIT6_C114409-38 Passive 
+)
+(
+USB_UART_RX 
+U8-26 CP2102N-A02-GQFN28R-26 Passive 
+U1-37 STM32H743VIT6_C114409-37 Passive 
+)
+(
+SDA 
+U11-1 RM3100(13156)-1 Passive 
+U7-7 MS561101BA03-50-7 Passive 
+U1-47 STM32H743VIT6_C114409-47 Passive 
+R34-2 RC0402FR-073K9L-2 Passive 
+)
+(
+RM3100_I2CEN 
+U11-22 RM3100(13156)-22 Passive 
+R32-2 RC0402FR-0710KL-2 Passive 
+)
+(
+SCL 
+U11-27 RM3100(13156)-27 Passive 
+U7-8 MS561101BA03-50-8 Passive 
+U1-46 STM32H743VIT6_C114409-46 Passive 
+R33-2 RC0402FR-073K9L-2 Passive 
+)
+(
+$3N18 
+CN1-1 GH-6PLT-1 Passive 
+CN1-2 GH-6PLT-2 Passive 
+Q2-3 SSM3J332R,LF-3 Passive 
+)
+(
++5V 
+CN2-1 WAFER-GH1.25-4PLB-1 Passive 
+CN5-1 WAFER-GH1.25-4PLB-1 Passive 
+Q2-2 SSM3J332R,LF-2 Passive 
+R51-2 0402WGF1002TCE-2 Passive 
+U14-3 TPS2117DRLR-3 Passive 
+U14-5 TPS2117DRLR-5 Passive 
+R49-2 WR08X3093FTL-2 Passive 
+)
+(
+PA9 
+CN2-2 WAFER-GH1.25-4PLB-2 Passive 
+U1-68 STM32H743VIT6_C114409-68 Passive 
+D3-1 PESD5V0F1BLZ-1 Passive 
+)
+(
+PA10 
+CN2-3 WAFER-GH1.25-4PLB-3 Passive 
+U1-69 STM32H743VIT6_C114409-69 Passive 
+D4-1 PESD5V0F1BLZ-1 Passive 
+)
+(
+$7N52 
+CN3-3 1.25-3PLTDK-3 Passive 
+R20-2 0402WGF3300TCE-2 Passive 
+R35-2 RC0402FR-0710KL-2 Passive 
+)
+(
+COMPANION_TX_EXT 
+CN4-2 WAFER-GH1.25-4PLB-2 Passive 
+D5-1 PESD5V0F1BLZ-1 Passive 
+R47-2 0402WGF3300TCE-2 Passive 
+)
+(
+COMPANION_RX_EXT 
+CN4-3 WAFER-GH1.25-4PLB-3 Passive 
+D6-1 PESD5V0F1BLZ-1 Passive 
+R48-2 0402WGF3300TCE-2 Passive 
+)
+(
+CRSF_TX 
+CN5-2 WAFER-GH1.25-4PLB-2 Passive 
+U1-82 STM32H743VIT6_C114409-82 Passive 
+D7-1 PESD5V0F1BLZ-1 Passive 
+)
+(
+CRSF_RX 
+CN5-3 WAFER-GH1.25-4PLB-3 Passive 
+U1-81 STM32H743VIT6_C114409-81 Passive 
+D8-1 PESD5V0F1BLZ-1 Passive 
+)
+(
+$7N54 
+CN6-3 1.25-3PLTDK-3 Passive 
+R21-2 0402WGF3300TCE-2 Passive 
+R36-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N56 
+CN7-3 1.25-3PLTDK-3 Passive 
+R22-2 0402WGF3300TCE-2 Passive 
+R37-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N58 
+CN8-3 1.25-3PLTDK-3 Passive 
+R23-2 0402WGF3300TCE-2 Passive 
+R38-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N60 
+CN9-3 1.25-3PLTDK-3 Passive 
+R24-2 0402WGF3300TCE-2 Passive 
+R39-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N62 
+CN10-3 1.25-3PLTDK-3 Passive 
+R25-2 0402WGF3300TCE-2 Passive 
+R40-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N64 
+CN11-3 1.25-3PLTDK-3 Passive 
+R26-2 0402WGF3300TCE-2 Passive 
+R41-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N66 
+CN12-3 1.25-3PLTDK-3 Passive 
+R27-2 0402WGF3300TCE-2 Passive 
+R42-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N68 
+CN13-3 1.25-3PLTDK-3 Passive 
+R28-2 0402WGF3300TCE-2 Passive 
+R43-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N70 
+CN14-3 1.25-3PLTDK-3 Passive 
+R29-2 0402WGF3300TCE-2 Passive 
+R44-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N72 
+CN15-3 1.25-3PLTDK-3 Passive 
+R30-2 0402WGF3300TCE-2 Passive 
+R45-2 RC0402FR-0710KL-2 Passive 
+)
+(
+$7N74 
+CN16-3 1.25-3PLTDK-3 Passive 
+R31-2 0402WGF3300TCE-2 Passive 
+R46-2 RC0402FR-0710KL-2 Passive 
+)
+(
+ESC1 
+R20-1 0402WGF3300TCE-1 Passive 
+U1-35 STM32H743VIT6_C114409-35 Passive 
+)
+(
+ESC2 
+R21-1 0402WGF3300TCE-1 Passive 
+U1-41 STM32H743VIT6_C114409-41 Passive 
+)
+(
+ESC3 
+R22-1 0402WGF3300TCE-1 Passive 
+U1-43 STM32H743VIT6_C114409-43 Passive 
+)
+(
+ESC4 
+R23-1 0402WGF3300TCE-1 Passive 
+U1-44 STM32H743VIT6_C114409-44 Passive 
+)
+(
+ESC5 
+R24-1 0402WGF3300TCE-1 Passive 
+U1-67 STM32H743VIT6_C114409-67 Passive 
+)
+(
+ESC6 
+R25-1 0402WGF3300TCE-1 Passive 
+U1-34 STM32H743VIT6_C114409-34 Passive 
+)
+(
+ESC7 
+R26-1 0402WGF3300TCE-1 Passive 
+U1-61 STM32H743VIT6_C114409-61 Passive 
+)
+(
+ESC8 
+R27-1 0402WGF3300TCE-1 Passive 
+U1-62 STM32H743VIT6_C114409-62 Passive 
+)
+(
+AUX1 
+R28-1 0402WGF3300TCE-1 Passive 
+U1-63 STM32H743VIT6_C114409-63 Passive 
+)
+(
+AUX2 
+R29-1 0402WGF3300TCE-1 Passive 
+U1-64 STM32H743VIT6_C114409-64 Passive 
+)
+(
+AUX3 
+R30-1 0402WGF3300TCE-1 Passive 
+U1-65 STM32H743VIT6_C114409-65 Passive 
+)
+(
+AUX4 
+R31-1 0402WGF3300TCE-1 Passive 
+U1-66 STM32H743VIT6_C114409-66 Passive 
+)
+(
+PD8 
+U1-55 STM32H743VIT6_C114409-55 Passive 
+R47-1 0402WGF3300TCE-1 Passive 
+)
+(
+PD9 
+U1-56 STM32H743VIT6_C114409-56 Passive 
+R48-1 0402WGF3300TCE-1 Passive 
+)
+(
+SWDIO 
+U1-72 STM32H743VIT6_C114409-72 Passive 
+U9-2 TC2030-2 Passive 
+)
+(
+SWCLK 
+U1-76 STM32H743VIT6_C114409-76 Passive 
+U9-4 TC2030-4 Passive 
+)
+(
+$3N22 
+R50-2 0805W8F1003T5E-2 Passive 
+U14-4 TPS2117DRLR-4 Passive 
+R49-1 WR08X3093FTL-1 Passive 
+)
+(
+$3N25 
+R51-1 0402WGF1002TCE-1 Passive 
+U14-8 TPS2117DRLR-8 Passive 
+)
