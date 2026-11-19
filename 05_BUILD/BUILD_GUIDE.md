@@ -5,9 +5,10 @@ The original delivery archives did not include ArduPilot source code or a SWORT 
 ## 1. Fetch exact upstream source
 
 ```bash
-git clone https://github.com/ArduPilot/ardupilot.git
+git clone --recurse-submodules https://github.com/ArduPilot/ardupilot.git
 cd ardupilot
 git checkout Copter-4.7.2
+git submodule update --init --recursive
 git rev-parse --short HEAD
 ```
 
@@ -24,8 +25,8 @@ It must contain at least the finalized `hwdef.dat`; add `hwdef-bl.dat` for the b
 ## 3. Configure and build ArduCopter
 
 ```bash
-./waf configure --board SWORT_X8_REV_B
-./waf copter
+python3 ./waf configure --board SWORT_X8_REV_B
+python3 ./waf copter
 ```
 
 Review the complete compiler output and build directory. Save the build log and exact source hash with the release artifacts.
@@ -33,8 +34,16 @@ Review the complete compiler output and build directory. Save the build log and 
 ## 4. Configure and build the custom bootloader
 
 ```bash
-./waf configure --board SWORT_X8_REV_B --bootloader
-./waf bootloader
+python3 ./waf configure --board SWORT_X8_REV_B --bootloader
+christlight@DESKTOP-9LLU1TT:~/SWORT_X8_02_RevB_ArduCopter_Firmware/ardupilot$ ls -l modules/waf/waf-light
+exit=$?"-rwxrwxr-x 1 christlight christlight 0 Nov 19 12:50 modules/waf/waf-light
+christlight@DESKTOP-9LLU1TT:~/SWORT_X8_02_RevB_ArduCopter_Firmware/ardupilot$ python3 ./waf --version; echo "waf_exit=$?"python3 ./waf --version; echo "waf_exit=$?"
+waf_exit=0python3 ./waf --version
+waf_exit=0
+christlight@DESKTOP-9LLU1TT:~/SWORT_X8_02_RevB_ArduCopter_Firmware/ardupilot$
+
+
+
 ```
 
 The `hwdef-bl.dat` must define the flash/reserved layout and approved UART/USB loader interfaces. For UART7 updates, make sure UART7 is explicitly represented in the bootloader `SERIAL_ORDER` configuration and then test it on the board.
