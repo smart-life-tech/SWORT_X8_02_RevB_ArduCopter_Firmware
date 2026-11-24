@@ -2,7 +2,7 @@
 
 The 9-Nov-2026 schematic and PCB netlists have been cross-checked. Their 99 net groups match exactly at the parsed component-pin level. Candidate `hwdef.dat`, `hwdef-bl.dat`, and `defaults.parm` files now exist in `ardupilot/libraries/AP_HAL_ChibiOS/hwdef/SWORT_X8_REV_B/`, based on documented mappings and owner confirmations. These are review drafts, not release-ready target files.
 
-The candidate selects ICM-42670-P for both IMUs, sets the whole-board default orientation to 90 degrees counterclockwise through the runtime-adjustable `AHRS_ORIENTATION` parameter, uses conventional PWM, and maps the confirmed serial roles. QSPI is configured as 16 MB external firmware storage, not as a DataFlash logger. The owner approved APJ board ID 7150 and the STM32H743 internal-flash layout reserving the first 128 KB for the bootloader. These approvals do not certify the target or its flashability.
+The candidate selects ICM-42670-P for both IMUs, sets the whole-board default orientation to 90 degrees counterclockwise through the runtime-adjustable `AHRS_ORIENTATION` parameter, and supplies provisional OctaQuad X defaults with both IMUs enabled for EKF3. It uses conventional PWM and maps the confirmed serial roles. The I2C2 bus has an explicit MS5611 declaration at `0x77`; sensor detection still requires assembled-board validation. QSPI is configured as 16 MB external firmware storage, not as a DataFlash logger. The owner approved APJ board ID 7150 and the STM32H743 internal-flash layout reserving the first 128 KB for the bootloader. These approvals do not certify the target or its flashability.
 
 Before a build or flash, complete these checks:
 
